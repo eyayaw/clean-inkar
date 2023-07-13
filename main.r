@@ -3,7 +3,7 @@ source('./clean-and-separate.R')
 ## example file
 # path = "data/latest/Economy/Economy-performance/Wirtschaftliche-Leistung.csv"
 # df = read_in(path)
-# df = clean_separate(df)
+# df = make_tidy_data(df)
 # nest_write_each(df, dir = separated(dirname(path), "separated/"))
 
 # get all csv files
