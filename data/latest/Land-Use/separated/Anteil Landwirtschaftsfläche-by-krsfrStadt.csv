@@ -1,0 +1,803 @@
+Kennziffer,Raumeinheit,Aggregat,year,value
+01001,"Flensburg, Stadt",krsfr. Stadt,2016,23.6
+01001,"Flensburg, Stadt",krsfr. Stadt,2017,23.3
+01002,"Kiel, Stadt",krsfr. Stadt,2016,29.3
+01002,"Kiel, Stadt",krsfr. Stadt,2017,29.2
+01003,"Lübeck, Stadt",krsfr. Stadt,2016,31.3
+01003,"Lübeck, Stadt",krsfr. Stadt,2017,31
+01004,"Neumünster, Stadt",krsfr. Stadt,2016,39.3
+01004,"Neumünster, Stadt",krsfr. Stadt,2017,39
+01051,Dithmarschen,Landkreis,2016,75.7
+01051,Dithmarschen,Landkreis,2017,75.6
+01053,Herzogtum Lauenburg,Landkreis,2016,57.3
+01053,Herzogtum Lauenburg,Landkreis,2017,57.2
+01054,Nordfriesland,Landkreis,2016,76.2
+01054,Nordfriesland,Landkreis,2017,76.1
+01055,Ostholstein,Landkreis,2016,71.8
+01055,Ostholstein,Landkreis,2017,71.7
+01056,Pinneberg,Landkreis,2016,61.4
+01056,Pinneberg,Landkreis,2017,61.2
+01057,Plön,Landkreis,2016,68.1
+01057,Plön,Landkreis,2017,68
+01058,Rendsburg-Eckernförde,Landkreis,2016,69.9
+01058,Rendsburg-Eckernförde,Landkreis,2017,69.8
+01059,Schleswig-Flensburg,Landkreis,2016,74.3
+01059,Schleswig-Flensburg,Landkreis,2017,74.3
+01060,Segeberg,Landkreis,2016,65
+01060,Segeberg,Landkreis,2017,64.8
+01061,Steinburg,Landkreis,2016,71.6
+01061,Steinburg,Landkreis,2017,71.5
+01062,Stormarn,Landkreis,2016,65.7
+01062,Stormarn,Landkreis,2017,65.3
+02000,"Hamburg, Stadt",krsfr. Stadt,2016,23.4
+02000,"Hamburg, Stadt",krsfr. Stadt,2017,23.1
+03101,"Braunschweig, Stadt",krsfr. Stadt,2016,36.5
+03101,"Braunschweig, Stadt",krsfr. Stadt,2017,36.7
+03102,"Salzgitter, Stadt",krsfr. Stadt,2016,50
+03102,"Salzgitter, Stadt",krsfr. Stadt,2017,49.9
+03103,"Wolfsburg, Stadt",krsfr. Stadt,2016,40.4
+03103,"Wolfsburg, Stadt",krsfr. Stadt,2017,40.5
+03151,Gifhorn,Landkreis,2016,50.5
+03151,Gifhorn,Landkreis,2017,50.5
+03153,Goslar,Landkreis,2016,27.8
+03153,Goslar,Landkreis,2017,28
+03154,Helmstedt,Landkreis,2016,58.9
+03154,Helmstedt,Landkreis,2017,59
+03155,Northeim,Landkreis,2016,48.2
+03155,Northeim,Landkreis,2017,48.3
+03157,Peine,Landkreis,2016,68.6
+03157,Peine,Landkreis,2017,68.5
+03158,Wolfenbüttel,Landkreis,2016,67.1
+03158,Wolfenbüttel,Landkreis,2017,67.1
+03159,Göttingen,Landkreis,2016,42.3
+03159,Göttingen,Landkreis,2017,42.3
+03241,Region Hannover,Landkreis,2016,51.8
+03241,Region Hannover,Landkreis,2017,51.9
+03251,Diepholz,Landkreis,2016,70.1
+03251,Diepholz,Landkreis,2017,70
+03252,Hameln-Pyrmont,Landkreis,2016,51.8
+03252,Hameln-Pyrmont,Landkreis,2017,51.8
+03254,Hildesheim,Landkreis,2016,58.1
+03254,Hildesheim,Landkreis,2017,58.1
+03255,Holzminden,Landkreis,2016,41.4
+03255,Holzminden,Landkreis,2017,41.5
+03256,Nienburg (Weser),Landkreis,2016,63.5
+03256,Nienburg (Weser),Landkreis,2017,63.4
+03257,Schaumburg,Landkreis,2016,53.9
+03257,Schaumburg,Landkreis,2017,53.8
+03351,Celle,Landkreis,2016,36.5
+03351,Celle,Landkreis,2017,36.4
+03352,Cuxhaven,Landkreis,2016,72.5
+03352,Cuxhaven,Landkreis,2017,72.4
+03353,Harburg,Landkreis,2016,50
+03353,Harburg,Landkreis,2017,50.4
+03354,Lüchow-Dannenberg,Landkreis,2016,51.2
+03354,Lüchow-Dannenberg,Landkreis,2017,51.1
+03355,Lüneburg,Landkreis,2016,50.8
+03355,Lüneburg,Landkreis,2017,51.1
+03356,Osterholz,Landkreis,2016,65.9
+03356,Osterholz,Landkreis,2017,65.8
+03357,Rotenburg (Wümme),Landkreis,2016,66.5
+03357,Rotenburg (Wümme),Landkreis,2017,66.5
+03358,Heidekreis,Landkreis,2016,39.2
+03358,Heidekreis,Landkreis,2017,39.3
+03359,Stade,Landkreis,2016,70.3
+03359,Stade,Landkreis,2017,70.4
+03360,Uelzen,Landkreis,2016,52.4
+03360,Uelzen,Landkreis,2017,52.4
+03361,Verden,Landkreis,2016,67.2
+03361,Verden,Landkreis,2017,67.3
+03401,"Delmenhorst, Stadt",krsfr. Stadt,2016,44.8
+03401,"Delmenhorst, Stadt",krsfr. Stadt,2017,44.8
+03402,"Emden, Stadt",krsfr. Stadt,2016,61
+03402,"Emden, Stadt",krsfr. Stadt,2017,61.4
+03403,"Oldenburg (Oldenburg), Stadt",krsfr. Stadt,2016,28.6
+03403,"Oldenburg (Oldenburg), Stadt",krsfr. Stadt,2017,28.5
+03404,"Osnabrück, Stadt",krsfr. Stadt,2016,31.1
+03404,"Osnabrück, Stadt",krsfr. Stadt,2017,31.3
+03405,"Wilhelmshaven, Stadt",krsfr. Stadt,2016,38.3
+03405,"Wilhelmshaven, Stadt",krsfr. Stadt,2017,38.8
+03451,Ammerland,Landkreis,2016,68
+03451,Ammerland,Landkreis,2017,67.9
+03452,Aurich,Landkreis,2016,73.1
+03452,Aurich,Landkreis,2017,72.2
+03453,Cloppenburg,Landkreis,2016,67.3
+03453,Cloppenburg,Landkreis,2017,67.1
+03454,Emsland,Landkreis,2016,60.5
+03454,Emsland,Landkreis,2017,60.5
+03455,Friesland,Landkreis,2016,72.2
+03455,Friesland,Landkreis,2017,72.3
+03456,Grafschaft Bentheim,Landkreis,2016,63.8
+03456,Grafschaft Bentheim,Landkreis,2017,63.7
+03457,Leer,Landkreis,2016,71.2
+03457,Leer,Landkreis,2017,71
+03458,Oldenburg,Landkreis,2016,63.8
+03458,Oldenburg,Landkreis,2017,63.7
+03459,Osnabrück,Landkreis,2016,62
+03459,Osnabrück,Landkreis,2017,62.1
+03460,Vechta,Landkreis,2016,65
+03460,Vechta,Landkreis,2017,65
+03461,Wesermarsch,Landkreis,2016,80
+03461,Wesermarsch,Landkreis,2017,79.9
+03462,Wittmund,Landkreis,2016,75.8
+03462,Wittmund,Landkreis,2017,75.6
+04011,"Bremen, Stadt",krsfr. Stadt,2016,30.9
+04011,"Bremen, Stadt",krsfr. Stadt,2017,30.8
+04012,"Bremerhaven, Stadt",krsfr. Stadt,2016,19.7
+04012,"Bremerhaven, Stadt",krsfr. Stadt,2017,19.7
+05111,"Düsseldorf, Stadt",krsfr. Stadt,2016,20
+05111,"Düsseldorf, Stadt",krsfr. Stadt,2017,19.2
+05112,"Duisburg, Stadt",krsfr. Stadt,2016,18.9
+05112,"Duisburg, Stadt",krsfr. Stadt,2017,17.6
+05113,"Essen, Stadt",krsfr. Stadt,2016,15.7
+05113,"Essen, Stadt",krsfr. Stadt,2017,15.6
+05114,"Krefeld, Stadt",krsfr. Stadt,2016,30.8
+05114,"Krefeld, Stadt",krsfr. Stadt,2017,30.8
+05116,"Mönchengladbach, Stadt",krsfr. Stadt,2016,38.3
+05116,"Mönchengladbach, Stadt",krsfr. Stadt,2017,38.2
+05117,"Mülheim an der Ruhr, Stadt",krsfr. Stadt,2016,22.8
+05117,"Mülheim an der Ruhr, Stadt",krsfr. Stadt,2017,22.7
+05119,"Oberhausen, Stadt",krsfr. Stadt,2016,8.8
+05119,"Oberhausen, Stadt",krsfr. Stadt,2017,8.7
+05120,"Remscheid, Stadt",krsfr. Stadt,2016,23
+05120,"Remscheid, Stadt",krsfr. Stadt,2017,22.8
+05122,"Solingen, Stadt",krsfr. Stadt,2016,23
+05122,"Solingen, Stadt",krsfr. Stadt,2017,22.5
+05124,"Wuppertal, Stadt",krsfr. Stadt,2016,20.1
+05124,"Wuppertal, Stadt",krsfr. Stadt,2017,20
+05154,Kleve,Landkreis,2016,63.7
+05154,Kleve,Landkreis,2017,63.5
+05158,Mettmann,Landkreis,2016,36.6
+05158,Mettmann,Landkreis,2017,36.5
+05162,Rhein-Kreis Neuss,Landkreis,2016,53
+05162,Rhein-Kreis Neuss,Landkreis,2017,52.7
+05166,Viersen,Landkreis,2016,51.6
+05166,Viersen,Landkreis,2017,51.5
+05170,Wesel,Landkreis,2016,52.6
+05170,Wesel,Landkreis,2017,52.1
+05314,"Bonn, Stadt",krsfr. Stadt,2016,16
+05314,"Bonn, Stadt",krsfr. Stadt,2017,15.9
+05315,"Köln, Stadt",krsfr. Stadt,2016,16.5
+05315,"Köln, Stadt",krsfr. Stadt,2017,16.5
+05316,"Leverkusen, Stadt",krsfr. Stadt,2016,22.9
+05316,"Leverkusen, Stadt",krsfr. Stadt,2017,22.8
+05334,Städteregion Aachen,Landkreis,2016,38.3
+05334,Städteregion Aachen,Landkreis,2017,37.9
+05358,Düren,Landkreis,2016,55.3
+05358,Düren,Landkreis,2017,55.2
+05362,Rhein-Erft-Kreis,Landkreis,2016,51.9
+05362,Rhein-Erft-Kreis,Landkreis,2017,51.7
+05366,Euskirchen,Landkreis,2016,46.5
+05366,Euskirchen,Landkreis,2017,46.3
+05370,Heinsberg,Landkreis,2016,63.4
+05370,Heinsberg,Landkreis,2017,62.6
+05374,Oberbergischer Kreis,Landkreis,2016,38.1
+05374,Oberbergischer Kreis,Landkreis,2017,38.1
+05378,Rheinisch-Bergischer Kreis,Landkreis,2016,36.1
+05378,Rheinisch-Bergischer Kreis,Landkreis,2017,35.8
+05382,Rhein-Sieg-Kreis,Landkreis,2016,42.1
+05382,Rhein-Sieg-Kreis,Landkreis,2017,41.8
+05512,"Bottrop, Stadt",krsfr. Stadt,2016,28.9
+05512,"Bottrop, Stadt",krsfr. Stadt,2017,28.9
+05513,"Gelsenkirchen, Stadt",krsfr. Stadt,2016,12.2
+05513,"Gelsenkirchen, Stadt",krsfr. Stadt,2017,12.1
+05515,"Münster, Stadt",krsfr. Stadt,2016,44.7
+05515,"Münster, Stadt",krsfr. Stadt,2017,44.3
+05554,Borken,Landkreis,2016,64.9
+05554,Borken,Landkreis,2017,64.7
+05558,Coesfeld,Landkreis,2016,67.3
+05558,Coesfeld,Landkreis,2017,67.1
+05562,Recklinghausen,Landkreis,2016,36.7
+05562,Recklinghausen,Landkreis,2017,36.3
+05566,Steinfurt,Landkreis,2016,64.6
+05566,Steinfurt,Landkreis,2017,64.2
+05570,Warendorf,Landkreis,2016,69.7
+05570,Warendorf,Landkreis,2017,69.5
+05711,"Bielefeld, Stadt",krsfr. Stadt,2016,33.9
+05711,"Bielefeld, Stadt",krsfr. Stadt,2017,33.6
+05754,Gütersloh,Landkreis,2016,60.6
+05754,Gütersloh,Landkreis,2017,60.1
+05758,Herford,Landkreis,2016,58.9
+05758,Herford,Landkreis,2017,58.7
+05762,Höxter,Landkreis,2016,58.3
+05762,Höxter,Landkreis,2017,58
+05766,Lippe,Landkreis,2016,49.9
+05766,Lippe,Landkreis,2017,49.7
+05770,Minden-Lübbecke,Landkreis,2016,63.7
+05770,Minden-Lübbecke,Landkreis,2017,63.5
+05774,Paderborn,Landkreis,2016,52.4
+05774,Paderborn,Landkreis,2017,52.3
+05911,"Bochum, Stadt",krsfr. Stadt,2016,19.1
+05911,"Bochum, Stadt",krsfr. Stadt,2017,18.2
+05913,"Dortmund, Stadt",krsfr. Stadt,2016,23.7
+05913,"Dortmund, Stadt",krsfr. Stadt,2017,23.6
+05914,"Hagen, Stadt",krsfr. Stadt,2016,19.1
+05914,"Hagen, Stadt",krsfr. Stadt,2017,18.4
+05915,"Hamm, Stadt",krsfr. Stadt,2016,53.6
+05915,"Hamm, Stadt",krsfr. Stadt,2017,53.4
+05916,"Herne, Stadt",krsfr. Stadt,2016,8.4
+05916,"Herne, Stadt",krsfr. Stadt,2017,8.3
+05954,Ennepe-Ruhr-Kreis,Landkreis,2016,38.7
+05954,Ennepe-Ruhr-Kreis,Landkreis,2017,38.5
+05958,Hochsauerlandkreis,Landkreis,2016,30.7
+05958,Hochsauerlandkreis,Landkreis,2017,30.6
+05962,Märkischer Kreis,Landkreis,2016,30.7
+05962,Märkischer Kreis,Landkreis,2017,30.3
+05966,Olpe,Landkreis,2016,23.6
+05966,Olpe,Landkreis,2017,23.6
+05970,Siegen-Wittgenstein,Landkreis,2016,18.6
+05970,Siegen-Wittgenstein,Landkreis,2017,18.6
+05974,Soest,Landkreis,2016,61.5
+05974,Soest,Landkreis,2017,61.2
+05978,Unna,Landkreis,2016,52.5
+05978,Unna,Landkreis,2017,51.9
+06411,"Darmstadt, Stadt",krsfr. Stadt,2016,19.1
+06411,"Darmstadt, Stadt",krsfr. Stadt,2017,19.1
+06412,"Frankfurt am Main, Stadt",krsfr. Stadt,2016,24
+06412,"Frankfurt am Main, Stadt",krsfr. Stadt,2017,24
+06413,"Offenbach am Main, Stadt",krsfr. Stadt,2016,14.1
+06413,"Offenbach am Main, Stadt",krsfr. Stadt,2017,14.1
+06414,"Wiesbaden, Stadt",krsfr. Stadt,2016,29.6
+06414,"Wiesbaden, Stadt",krsfr. Stadt,2017,29.6
+06431,Bergstraße,Landkreis,2016,40.6
+06431,Bergstraße,Landkreis,2017,40.4
+06432,Darmstadt-Dieburg,Landkreis,2016,44
+06432,Darmstadt-Dieburg,Landkreis,2017,43.9
+06433,Groß-Gerau,Landkreis,2016,46.3
+06433,Groß-Gerau,Landkreis,2017,46.2
+06434,Hochtaunuskreis,Landkreis,2016,29.4
+06434,Hochtaunuskreis,Landkreis,2017,29.3
+06435,Main-Kinzig-Kreis,Landkreis,2016,38.8
+06435,Main-Kinzig-Kreis,Landkreis,2017,38.8
+06436,Main-Taunus-Kreis,Landkreis,2016,41.3
+06436,Main-Taunus-Kreis,Landkreis,2017,41.2
+06437,Odenwaldkreis,Landkreis,2016,32.2
+06437,Odenwaldkreis,Landkreis,2017,32.2
+06438,Offenbach,Landkreis,2016,23.6
+06438,Offenbach,Landkreis,2017,23.6
+06439,Rheingau-Taunus-Kreis,Landkreis,2016,29.1
+06439,Rheingau-Taunus-Kreis,Landkreis,2017,29
+06440,Wetteraukreis,Landkreis,2016,53.3
+06440,Wetteraukreis,Landkreis,2017,53.1
+06531,Gießen,Landkreis,2016,44.7
+06531,Gießen,Landkreis,2017,44.6
+06532,Lahn-Dill-Kreis,Landkreis,2016,33.8
+06532,Lahn-Dill-Kreis,Landkreis,2017,33.5
+06533,Limburg-Weilburg,Landkreis,2016,45.8
+06533,Limburg-Weilburg,Landkreis,2017,45.8
+06534,Marburg-Biedenkopf,Landkreis,2016,43.4
+06534,Marburg-Biedenkopf,Landkreis,2017,43.3
+06535,Vogelsbergkreis,Landkreis,2016,48.9
+06535,Vogelsbergkreis,Landkreis,2017,48.8
+06611,"Kassel, Stadt",krsfr. Stadt,2016,14.6
+06611,"Kassel, Stadt",krsfr. Stadt,2017,14.2
+06631,Fulda,Landkreis,2016,48.5
+06631,Fulda,Landkreis,2017,48.3
+06632,Hersfeld-Rotenburg,Landkreis,2016,40.4
+06632,Hersfeld-Rotenburg,Landkreis,2017,40.3
+06633,Kassel,Landkreis,2016,44.8
+06633,Kassel,Landkreis,2017,44.8
+06634,Schwalm-Eder-Kreis,Landkreis,2016,48.9
+06634,Schwalm-Eder-Kreis,Landkreis,2017,48.6
+06635,Waldeck-Frankenberg,Landkreis,2016,42.1
+06635,Waldeck-Frankenberg,Landkreis,2017,42.1
+06636,Werra-Meißner-Kreis,Landkreis,2016,43
+06636,Werra-Meißner-Kreis,Landkreis,2017,43
+07111,"Koblenz, Stadt",krsfr. Stadt,2016,23.6
+07111,"Koblenz, Stadt",krsfr. Stadt,2017,23.1
+07131,Ahrweiler,Landkreis,2016,31.4
+07131,Ahrweiler,Landkreis,2017,31.3
+07132,Altenkirchen (Westerwald),Landkreis,2016,31.2
+07132,Altenkirchen (Westerwald),Landkreis,2017,31.2
+07133,Bad Kreuznach,Landkreis,2016,44.7
+07133,Bad Kreuznach,Landkreis,2017,44.4
+07134,Birkenfeld,Landkreis,2016,32.8
+07134,Birkenfeld,Landkreis,2017,32.4
+07135,Cochem-Zell,Landkreis,2016,36.7
+07135,Cochem-Zell,Landkreis,2017,36.6
+07137,Mayen-Koblenz,Landkreis,2016,47.4
+07137,Mayen-Koblenz,Landkreis,2017,47.4
+07138,Neuwied,Landkreis,2016,33.1
+07138,Neuwied,Landkreis,2017,33.1
+07140,Rhein-Hunsrück-Kreis,Landkreis,2016,41.2
+07140,Rhein-Hunsrück-Kreis,Landkreis,2017,41.1
+07141,Rhein-Lahn-Kreis,Landkreis,2016,38.4
+07141,Rhein-Lahn-Kreis,Landkreis,2017,38.4
+07143,Westerwaldkreis,Landkreis,2016,38.1
+07143,Westerwaldkreis,Landkreis,2017,38.1
+07211,"Trier, Stadt",krsfr. Stadt,2016,20.7
+07211,"Trier, Stadt",krsfr. Stadt,2017,20.3
+07231,Bernkastel-Wittlich,Landkreis,2016,36
+07231,Bernkastel-Wittlich,Landkreis,2017,36
+07232,Eifelkreis Bitburg-Prüm,Landkreis,2016,52.6
+07232,Eifelkreis Bitburg-Prüm,Landkreis,2017,52.5
+07233,Vulkaneifel,Landkreis,2016,41.7
+07233,Vulkaneifel,Landkreis,2017,41.6
+07235,Trier-Saarburg,Landkreis,2016,38
+07235,Trier-Saarburg,Landkreis,2017,37.7
+07311,"Frankenthal (Pfalz), Stadt",krsfr. Stadt,2016,58.4
+07311,"Frankenthal (Pfalz), Stadt",krsfr. Stadt,2017,58.3
+07312,"Kaiserslautern, Stadt",krsfr. Stadt,2016,8.7
+07312,"Kaiserslautern, Stadt",krsfr. Stadt,2017,8.7
+07313,"Landau in der Pfalz, Stadt",krsfr. Stadt,2016,43.7
+07313,"Landau in der Pfalz, Stadt",krsfr. Stadt,2017,43.7
+07314,"Ludwigshafen am Rhein, Stadt",krsfr. Stadt,2016,28.9
+07314,"Ludwigshafen am Rhein, Stadt",krsfr. Stadt,2017,28.5
+07315,"Mainz, Stadt",krsfr. Stadt,2016,42.1
+07315,"Mainz, Stadt",krsfr. Stadt,2017,42.3
+07316,"Neustadt an der Weinstraße, Stadt",krsfr. Stadt,2016,35.5
+07316,"Neustadt an der Weinstraße, Stadt",krsfr. Stadt,2017,35.4
+07317,"Pirmasens, Stadt",krsfr. Stadt,2016,27.5
+07317,"Pirmasens, Stadt",krsfr. Stadt,2017,27.4
+07318,"Speyer, Stadt",krsfr. Stadt,2016,19.8
+07318,"Speyer, Stadt",krsfr. Stadt,2017,19.8
+07319,"Worms, Stadt",krsfr. Stadt,2016,61.5
+07319,"Worms, Stadt",krsfr. Stadt,2017,61.4
+07320,"Zweibrücken, Stadt",krsfr. Stadt,2016,46.6
+07320,"Zweibrücken, Stadt",krsfr. Stadt,2017,46.7
+07331,Alzey-Worms,Landkreis,2016,77.1
+07331,Alzey-Worms,Landkreis,2017,77
+07332,Bad Dürkheim,Landkreis,2016,33.9
+07332,Bad Dürkheim,Landkreis,2017,33.8
+07333,Donnersbergkreis,Landkreis,2016,54.5
+07333,Donnersbergkreis,Landkreis,2017,54.2
+07334,Germersheim,Landkreis,2016,38.2
+07334,Germersheim,Landkreis,2017,38
+07335,Kaiserslautern,Landkreis,2016,33.6
+07335,Kaiserslautern,Landkreis,2017,33.5
+07336,Kusel,Landkreis,2016,50.1
+07336,Kusel,Landkreis,2017,49.9
+07337,Südliche Weinstraße,Landkreis,2016,41.1
+07337,Südliche Weinstraße,Landkreis,2017,41
+07338,Rhein-Pfalz-Kreis,Landkreis,2016,54.2
+07338,Rhein-Pfalz-Kreis,Landkreis,2017,54.1
+07339,Mainz-Bingen,Landkreis,2016,61.5
+07339,Mainz-Bingen,Landkreis,2017,61.4
+07340,Südwestpfalz,Landkreis,2016,25.8
+07340,Südwestpfalz,Landkreis,2017,25.7
+08111,"Stuttgart, Stadt",krsfr. Stadt,2016,22.8
+08111,"Stuttgart, Stadt",krsfr. Stadt,2017,22.8
+08115,Böblingen,Landkreis,2016,41.4
+08115,Böblingen,Landkreis,2017,41.3
+08116,Esslingen,Landkreis,2016,44.2
+08116,Esslingen,Landkreis,2017,44.1
+08117,Göppingen,Landkreis,2016,50
+08117,Göppingen,Landkreis,2017,49.9
+08118,Ludwigsburg,Landkreis,2016,54.9
+08118,Ludwigsburg,Landkreis,2017,54.5
+08119,Rems-Murr-Kreis,Landkreis,2016,41.9
+08119,Rems-Murr-Kreis,Landkreis,2017,41.8
+08121,"Heilbronn, Stadt",krsfr. Stadt,2016,47.1
+08121,"Heilbronn, Stadt",krsfr. Stadt,2017,47
+08125,Heilbronn,Landkreis,2016,55.1
+08125,Heilbronn,Landkreis,2017,55
+08126,Hohenlohekreis,Landkreis,2016,56.8
+08126,Hohenlohekreis,Landkreis,2017,56.6
+08127,Schwäbisch Hall,Landkreis,2016,54.9
+08127,Schwäbisch Hall,Landkreis,2017,54.8
+08128,Main-Tauber-Kreis,Landkreis,2016,57.7
+08128,Main-Tauber-Kreis,Landkreis,2017,57.6
+08135,Heidenheim,Landkreis,2016,42.5
+08135,Heidenheim,Landkreis,2017,42.3
+08136,Ostalbkreis,Landkreis,2016,46.6
+08136,Ostalbkreis,Landkreis,2017,46.5
+08211,"Baden-Baden, Stadt",krsfr. Stadt,2016,22.2
+08211,"Baden-Baden, Stadt",krsfr. Stadt,2017,22.2
+08212,"Karlsruhe, Stadt",krsfr. Stadt,2016,22.6
+08212,"Karlsruhe, Stadt",krsfr. Stadt,2017,22.6
+08215,Karlsruhe,Landkreis,2016,44.6
+08215,Karlsruhe,Landkreis,2017,44.5
+08216,Rastatt,Landkreis,2016,30.6
+08216,Rastatt,Landkreis,2017,30.5
+08221,"Heidelberg, Stadt",krsfr. Stadt,2016,26.3
+08221,"Heidelberg, Stadt",krsfr. Stadt,2017,26.2
+08222,"Mannheim, Stadt",krsfr. Stadt,2016,23.8
+08222,"Mannheim, Stadt",krsfr. Stadt,2017,23.8
+08225,Neckar-Odenwald-Kreis,Landkreis,2016,45.9
+08225,Neckar-Odenwald-Kreis,Landkreis,2017,45.7
+08226,Rhein-Neckar-Kreis,Landkreis,2016,41.8
+08226,Rhein-Neckar-Kreis,Landkreis,2017,41.8
+08231,"Pforzheim, Stadt",Landkreis,2016,16.7
+08231,"Pforzheim, Stadt",Landkreis,2017,16.7
+08235,Calw,Landkreis,2016,25.8
+08235,Calw,Landkreis,2017,25.7
+08236,Enzkreis,Landkreis,2016,44.1
+08236,Enzkreis,Landkreis,2017,44
+08237,Freudenstadt,Landkreis,2016,26.1
+08237,Freudenstadt,Landkreis,2017,26.1
+08311,"Freiburg im Breisgau, Stadt",krsfr. Stadt,2016,23.4
+08311,"Freiburg im Breisgau, Stadt",krsfr. Stadt,2017,23.1
+08315,Breisgau-Hochschwarzwald,Landkreis,2016,39.5
+08315,Breisgau-Hochschwarzwald,Landkreis,2017,39.4
+08316,Emmendingen,Landkreis,2016,40.3
+08316,Emmendingen,Landkreis,2017,40.2
+08317,Ortenaukreis,Landkreis,2016,37.8
+08317,Ortenaukreis,Landkreis,2017,37.7
+08325,Rottweil,Landkreis,2016,42.6
+08325,Rottweil,Landkreis,2017,42.5
+08326,Schwarzwald-Baar-Kreis,Landkreis,2016,41.3
+08326,Schwarzwald-Baar-Kreis,Landkreis,2017,41.2
+08327,Tuttlingen,Landkreis,2016,37
+08327,Tuttlingen,Landkreis,2017,36.9
+08335,Konstanz,Landkreis,2016,49
+08335,Konstanz,Landkreis,2017,48.9
+08336,Lörrach,Landkreis,2016,34
+08336,Lörrach,Landkreis,2017,34
+08337,Waldshut,Landkreis,2016,38.8
+08337,Waldshut,Landkreis,2017,38.7
+08415,Reutlingen,Landkreis,2016,47.5
+08415,Reutlingen,Landkreis,2017,47.3
+08416,Tübingen,Landkreis,2016,45.7
+08416,Tübingen,Landkreis,2017,45.5
+08417,Zollernalbkreis,Landkreis,2016,44.4
+08417,Zollernalbkreis,Landkreis,2017,44.3
+08421,"Ulm, Stadt",krsfr. Stadt,2016,45.2
+08421,"Ulm, Stadt",krsfr. Stadt,2017,45.1
+08425,Alb-Donau-Kreis,Landkreis,2016,56.9
+08425,Alb-Donau-Kreis,Landkreis,2017,56.9
+08426,Biberach,Landkreis,2016,57.9
+08426,Biberach,Landkreis,2017,57.9
+08435,Bodenseekreis,Landkreis,2016,55.4
+08435,Bodenseekreis,Landkreis,2017,55.3
+08436,Ravensburg,Landkreis,2016,57.7
+08436,Ravensburg,Landkreis,2017,57.6
+08437,Sigmaringen,Landkreis,2016,49.4
+08437,Sigmaringen,Landkreis,2017,49.3
+09161,"Ingolstadt, Stadt",krsfr. Stadt,2016,40.2
+09161,"Ingolstadt, Stadt",krsfr. Stadt,2017,40
+09162,"München, Stadt",krsfr. Stadt,2016,14
+09162,"München, Stadt",krsfr. Stadt,2017,13.9
+09163,"Rosenheim, Stadt",krsfr. Stadt,2016,36.2
+09163,"Rosenheim, Stadt",krsfr. Stadt,2017,36.2
+09171,Altötting,Landkreis,2016,53.9
+09171,Altötting,Landkreis,2017,53.9
+09172,Berchtesgadener Land,Landkreis,2016,22.3
+09172,Berchtesgadener Land,Landkreis,2017,22.3
+09173,Bad Tölz-Wolfratshausen,Landkreis,2016,28.4
+09173,Bad Tölz-Wolfratshausen,Landkreis,2017,28.4
+09174,Dachau,Landkreis,2016,65.4
+09174,Dachau,Landkreis,2017,65.4
+09175,Ebersberg,Landkreis,2016,47.9
+09175,Ebersberg,Landkreis,2017,47.9
+09176,Eichstätt,Landkreis,2016,46.1
+09176,Eichstätt,Landkreis,2017,45.9
+09177,Erding,Landkreis,2016,69.8
+09177,Erding,Landkreis,2017,69.8
+09178,Freising,Landkreis,2016,63.2
+09178,Freising,Landkreis,2017,63.1
+09179,Fürstenfeldbruck,Landkreis,2016,55.7
+09179,Fürstenfeldbruck,Landkreis,2017,55.6
+09180,Garmisch-Partenkirchen,Landkreis,2016,19.3
+09180,Garmisch-Partenkirchen,Landkreis,2017,19.3
+09181,Landsberg am Lech,Landkreis,2016,49.8
+09181,Landsberg am Lech,Landkreis,2017,49.9
+09182,Miesbach,Landkreis,2016,31.2
+09182,Miesbach,Landkreis,2017,31.2
+09183,Mühldorf a.Inn,Landkreis,2016,63.9
+09183,Mühldorf a.Inn,Landkreis,2017,63.9
+09184,München,Landkreis,2016,30.7
+09184,München,Landkreis,2017,30.6
+09185,Neuburg-Schrobenhausen,Landkreis,2016,60.5
+09185,Neuburg-Schrobenhausen,Landkreis,2017,60.3
+09186,Pfaffenhofen a.d.Ilm,Landkreis,2016,57.9
+09186,Pfaffenhofen a.d.Ilm,Landkreis,2017,57.8
+09187,Rosenheim,Landkreis,2016,47
+09187,Rosenheim,Landkreis,2017,46.9
+09188,Starnberg,Landkreis,2016,31.5
+09188,Starnberg,Landkreis,2017,31.3
+09189,Traunstein,Landkreis,2016,43.2
+09189,Traunstein,Landkreis,2017,43.1
+09190,Weilheim-Schongau,Landkreis,2016,51.6
+09190,Weilheim-Schongau,Landkreis,2017,51.6
+09261,"Landshut, Stadt",krsfr. Stadt,2016,40.8
+09261,"Landshut, Stadt",krsfr. Stadt,2017,40.7
+09262,"Passau, Stadt",krsfr. Stadt,2016,25.8
+09262,"Passau, Stadt",krsfr. Stadt,2017,25.7
+09263,"Straubing, Stadt",krsfr. Stadt,2016,57.8
+09263,"Straubing, Stadt",krsfr. Stadt,2017,57.5
+09271,Deggendorf,Landkreis,2016,53.9
+09271,Deggendorf,Landkreis,2017,53.6
+09272,Freyung-Grafenau,Landkreis,2016,30
+09272,Freyung-Grafenau,Landkreis,2017,29.9
+09273,Kelheim,Landkreis,2016,46.4
+09273,Kelheim,Landkreis,2017,46.3
+09274,Landshut,Landkreis,2016,63.4
+09274,Landshut,Landkreis,2017,63.2
+09275,Passau,Landkreis,2016,55
+09275,Passau,Landkreis,2017,54.9
+09276,Regen,Landkreis,2016,25.5
+09276,Regen,Landkreis,2017,25.3
+09277,Rottal-Inn,Landkreis,2016,61.6
+09277,Rottal-Inn,Landkreis,2017,61.4
+09278,Straubing-Bogen,Landkreis,2016,58.6
+09278,Straubing-Bogen,Landkreis,2017,58.5
+09279,Dingolfing-Landau,Landkreis,2016,62.6
+09279,Dingolfing-Landau,Landkreis,2017,62.5
+09361,"Amberg, Stadt",krsfr. Stadt,2016,39.6
+09361,"Amberg, Stadt",krsfr. Stadt,2017,39.5
+09362,"Regensburg, Stadt",krsfr. Stadt,2016,28.7
+09362,"Regensburg, Stadt",krsfr. Stadt,2017,28.1
+09363,"Weiden i.d.OPf., Stadt",krsfr. Stadt,2016,34.2
+09363,"Weiden i.d.OPf., Stadt",krsfr. Stadt,2017,34.1
+09371,Amberg-Sulzbach,Landkreis,2016,39.6
+09371,Amberg-Sulzbach,Landkreis,2017,39.6
+09372,Cham,Landkreis,2016,43.2
+09372,Cham,Landkreis,2017,43
+09373,Neumarkt i.d.OPf.,Landkreis,2016,43.8
+09373,Neumarkt i.d.OPf.,Landkreis,2017,43.8
+09374,Neustadt a.d.Waldnaab,Landkreis,2016,35.4
+09374,Neustadt a.d.Waldnaab,Landkreis,2017,35.3
+09375,Regensburg,Landkreis,2016,50.7
+09375,Regensburg,Landkreis,2017,50.5
+09376,Schwandorf,Landkreis,2016,39.4
+09376,Schwandorf,Landkreis,2017,39.5
+09377,Tirschenreuth,Landkreis,2016,40.1
+09377,Tirschenreuth,Landkreis,2017,40
+09461,"Bamberg, Stadt",krsfr. Stadt,2016,16.1
+09461,"Bamberg, Stadt",krsfr. Stadt,2017,16.1
+09462,"Bayreuth, Stadt",krsfr. Stadt,2016,33.7
+09462,"Bayreuth, Stadt",krsfr. Stadt,2017,33.5
+09463,"Coburg, Stadt",krsfr. Stadt,2016,28.2
+09463,"Coburg, Stadt",krsfr. Stadt,2017,28.1
+09464,"Hof, Stadt",krsfr. Stadt,2016,43.6
+09464,"Hof, Stadt",krsfr. Stadt,2017,43.5
+09471,Bamberg,Landkreis,2016,44.8
+09471,Bamberg,Landkreis,2017,44.7
+09472,Bayreuth,Landkreis,2016,40.8
+09472,Bayreuth,Landkreis,2017,40.7
+09473,Coburg,Landkreis,2016,50.6
+09473,Coburg,Landkreis,2017,50.6
+09474,Forchheim,Landkreis,2016,44.9
+09474,Forchheim,Landkreis,2017,44.8
+09475,Hof,Landkreis,2016,49.6
+09475,Hof,Landkreis,2017,49.6
+09476,Kronach,Landkreis,2016,28.3
+09476,Kronach,Landkreis,2017,28.2
+09477,Kulmbach,Landkreis,2016,48.6
+09477,Kulmbach,Landkreis,2017,48.5
+09478,Lichtenfels,Landkreis,2016,44.3
+09478,Lichtenfels,Landkreis,2017,44.3
+09479,Wunsiedel i.Fichtelgebirge,Landkreis,2016,38.4
+09479,Wunsiedel i.Fichtelgebirge,Landkreis,2017,38.3
+09561,"Ansbach, Stadt",krsfr. Stadt,2016,44
+09561,"Ansbach, Stadt",krsfr. Stadt,2017,43.9
+09562,"Erlangen, Stadt",krsfr. Stadt,2016,30.2
+09562,"Erlangen, Stadt",krsfr. Stadt,2017,30.2
+09563,"Fürth, Stadt",krsfr. Stadt,2016,34.8
+09563,"Fürth, Stadt",krsfr. Stadt,2017,34.7
+09564,"Nürnberg, Stadt",krsfr. Stadt,2016,17.4
+09564,"Nürnberg, Stadt",krsfr. Stadt,2017,17.3
+09565,"Schwabach, Stadt",krsfr. Stadt,2016,32.7
+09565,"Schwabach, Stadt",krsfr. Stadt,2017,32.7
+09571,Ansbach,Landkreis,2016,56.7
+09571,Ansbach,Landkreis,2017,56.6
+09572,Erlangen-Höchstadt,Landkreis,2016,37.6
+09572,Erlangen-Höchstadt,Landkreis,2017,37.5
+09573,Fürth,Landkreis,2016,53.4
+09573,Fürth,Landkreis,2017,53.2
+09574,Nürnberger Land,Landkreis,2016,31.5
+09574,Nürnberger Land,Landkreis,2017,31.5
+09575,Neustadt a.d.Aisch-Bad Windsheim,Landkreis,2016,57
+09575,Neustadt a.d.Aisch-Bad Windsheim,Landkreis,2017,57
+09576,Roth,Landkreis,2016,39.1
+09576,Roth,Landkreis,2017,39
+09577,Weißenburg-Gunzenhausen,Landkreis,2016,49.4
+09577,Weißenburg-Gunzenhausen,Landkreis,2017,49.3
+09661,"Aschaffenburg, Stadt",krsfr. Stadt,2016,21.5
+09661,"Aschaffenburg, Stadt",krsfr. Stadt,2017,21.4
+09662,"Schweinfurt, Stadt",krsfr. Stadt,2016,20.7
+09662,"Schweinfurt, Stadt",krsfr. Stadt,2017,20.3
+09663,"Würzburg, Stadt",krsfr. Stadt,2016,26.7
+09663,"Würzburg, Stadt",krsfr. Stadt,2017,26.6
+09671,Aschaffenburg,Landkreis,2016,23.9
+09671,Aschaffenburg,Landkreis,2017,23.9
+09672,Bad Kissingen,Landkreis,2016,35.5
+09672,Bad Kissingen,Landkreis,2017,35.5
+09673,Rhön-Grabfeld,Landkreis,2016,48.6
+09673,Rhön-Grabfeld,Landkreis,2017,48.6
+09674,Haßberge,Landkreis,2016,45.4
+09674,Haßberge,Landkreis,2017,45.4
+09675,Kitzingen,Landkreis,2016,59.2
+09675,Kitzingen,Landkreis,2017,59.1
+09676,Miltenberg,Landkreis,2016,26.8
+09676,Miltenberg,Landkreis,2017,26.9
+09677,Main-Spessart,Landkreis,2016,32.1
+09677,Main-Spessart,Landkreis,2017,32
+09678,Schweinfurt,Landkreis,2016,58.3
+09678,Schweinfurt,Landkreis,2017,58.2
+09679,Würzburg,Landkreis,2016,61.4
+09679,Würzburg,Landkreis,2017,61.3
+09761,"Augsburg, Stadt",krsfr. Stadt,2016,25.9
+09761,"Augsburg, Stadt",krsfr. Stadt,2017,25.7
+09762,"Kaufbeuren, Stadt",krsfr. Stadt,2016,33.4
+09762,"Kaufbeuren, Stadt",krsfr. Stadt,2017,33.5
+09763,"Kempten (Allgäu), Stadt",krsfr. Stadt,2016,51.1
+09763,"Kempten (Allgäu), Stadt",krsfr. Stadt,2017,50.7
+09764,"Memmingen, Stadt",krsfr. Stadt,2016,46.8
+09764,"Memmingen, Stadt",krsfr. Stadt,2017,46.8
+09771,Aichach-Friedberg,Landkreis,2016,59.5
+09771,Aichach-Friedberg,Landkreis,2017,59.6
+09772,Augsburg,Landkreis,2016,48.1
+09772,Augsburg,Landkreis,2017,48.1
+09773,Dillingen a.d.Donau,Landkreis,2016,59.7
+09773,Dillingen a.d.Donau,Landkreis,2017,59.6
+09774,Günzburg,Landkreis,2016,52
+09774,Günzburg,Landkreis,2017,51.9
+09775,Neu-Ulm,Landkreis,2016,47.7
+09775,Neu-Ulm,Landkreis,2017,47.6
+09776,Lindau (Bodensee),Landkreis,2016,56.6
+09776,Lindau (Bodensee),Landkreis,2017,56.4
+09777,Ostallgäu,Landkreis,2016,55.6
+09777,Ostallgäu,Landkreis,2017,55.5
+09778,Unterallgäu,Landkreis,2016,60.6
+09778,Unterallgäu,Landkreis,2017,60.5
+09779,Donau-Ries,Landkreis,2016,58.4
+09779,Donau-Ries,Landkreis,2017,58.3
+09780,Oberallgäu,Landkreis,2016,45.8
+09780,Oberallgäu,Landkreis,2017,45.6
+10041,Regionalverband Saarbrücken,Landkreis,2016,25.1
+10041,Regionalverband Saarbrücken,Landkreis,2017,25.1
+10042,Merzig-Wadern,Landkreis,2016,45.5
+10042,Merzig-Wadern,Landkreis,2017,45.5
+10043,Neunkirchen,Landkreis,2016,42.4
+10043,Neunkirchen,Landkreis,2017,42.3
+10044,Saarlouis,Landkreis,2016,48
+10044,Saarlouis,Landkreis,2017,48
+10045,Saarpfalz-Kreis,Landkreis,2016,45.6
+10045,Saarpfalz-Kreis,Landkreis,2017,45.6
+10046,St. Wendel,Landkreis,2016,48.5
+10046,St. Wendel,Landkreis,2017,48.4
+11000,"Berlin, Stadt",krsfr. Stadt,2016,4.2
+11000,"Berlin, Stadt",krsfr. Stadt,2017,4.1
+12051,"Brandenburg an der Havel, Stadt",krsfr. Stadt,2016,29.5
+12051,"Brandenburg an der Havel, Stadt",krsfr. Stadt,2017,29.5
+12052,"Cottbus, Stadt",krsfr. Stadt,2016,30
+12052,"Cottbus, Stadt",krsfr. Stadt,2017,30
+12053,"Frankfurt (Oder), Stadt",krsfr. Stadt,2016,44.7
+12053,"Frankfurt (Oder), Stadt",krsfr. Stadt,2017,44.7
+12054,"Potsdam, Stadt",krsfr. Stadt,2016,30.2
+12054,"Potsdam, Stadt",krsfr. Stadt,2017,30
+12060,Barnim,Landkreis,2016,36.1
+12060,Barnim,Landkreis,2017,36.1
+12061,Dahme-Spreewald,Landkreis,2016,38.8
+12061,Dahme-Spreewald,Landkreis,2017,38.7
+12062,Elbe-Elster,Landkreis,2016,51.2
+12062,Elbe-Elster,Landkreis,2017,51.2
+12063,Havelland,Landkreis,2016,57.7
+12063,Havelland,Landkreis,2017,57.6
+12064,Märkisch-Oderland,Landkreis,2016,61.2
+12064,Märkisch-Oderland,Landkreis,2017,61.2
+12065,Oberhavel,Landkreis,2016,42.7
+12065,Oberhavel,Landkreis,2017,42.7
+12066,Oberspreewald-Lausitz,Landkreis,2016,34.7
+12066,Oberspreewald-Lausitz,Landkreis,2017,34.7
+12067,Oder-Spree,Landkreis,2016,37
+12067,Oder-Spree,Landkreis,2017,37
+12068,Ostprignitz-Ruppin,Landkreis,2016,54.6
+12068,Ostprignitz-Ruppin,Landkreis,2017,54.6
+12069,Potsdam-Mittelmark,Landkreis,2016,46
+12069,Potsdam-Mittelmark,Landkreis,2017,45.9
+12070,Prignitz,Landkreis,2016,67.9
+12070,Prignitz,Landkreis,2017,67.9
+12071,Spree-Neiße,Landkreis,2016,35.1
+12071,Spree-Neiße,Landkreis,2017,35.1
+12072,Teltow-Fläming,Landkreis,2016,45.5
+12072,Teltow-Fläming,Landkreis,2017,45.5
+12073,Uckermark,Landkreis,2016,62.5
+12073,Uckermark,Landkreis,2017,62.5
+13003,"Rostock, Stadt",krsfr. Stadt,2016,19.2
+13003,"Rostock, Stadt",krsfr. Stadt,2017,19.2
+13004,"Schwerin, Stadt",krsfr. Stadt,2016,17.5
+13004,"Schwerin, Stadt",krsfr. Stadt,2017,17.5
+13071,Mecklenburgische Seenplatte,Landkreis,2016,57.7
+13071,Mecklenburgische Seenplatte,Landkreis,2017,57.6
+13072,Landkreis Rostock,Landkreis,2016,68.2
+13072,Landkreis Rostock,Landkreis,2017,68.2
+13073,Vorpommern-Rügen,Landkreis,2016,65.9
+13073,Vorpommern-Rügen,Landkreis,2017,65.9
+13074,Nordwestmecklenburg,Landkreis,2016,71.1
+13074,Nordwestmecklenburg,Landkreis,2017,71
+13075,Vorpommern-Greifswald,Landkreis,2016,60.8
+13075,Vorpommern-Greifswald,Landkreis,2017,60.8
+13076,Ludwigslust-Parchim,Landkreis,2016,59.3
+13076,Ludwigslust-Parchim,Landkreis,2017,59.3
+14511,"Chemnitz, Stadt",krsfr. Stadt,2016,37.7
+14511,"Chemnitz, Stadt",krsfr. Stadt,2017,37.6
+14521,Erzgebirgskreis,Landkreis,2016,40.3
+14521,Erzgebirgskreis,Landkreis,2017,40.3
+14522,Mittelsachsen,Landkreis,2016,71.1
+14522,Mittelsachsen,Landkreis,2017,71
+14523,Vogtlandkreis,Landkreis,2016,46.4
+14523,Vogtlandkreis,Landkreis,2017,46.4
+14524,Zwickau,Landkreis,2016,62.8
+14524,Zwickau,Landkreis,2017,62.6
+14612,"Dresden, Stadt",krsfr. Stadt,2016,32.5
+14612,"Dresden, Stadt",krsfr. Stadt,2017,32.3
+14625,Bautzen,Landkreis,2016,45.9
+14625,Bautzen,Landkreis,2017,45.8
+14626,Görlitz,Landkreis,2016,44.7
+14626,Görlitz,Landkreis,2017,44.5
+14627,Meißen,Landkreis,2016,69.6
+14627,Meißen,Landkreis,2017,69.6
+14628,Sächsische Schweiz-Osterzgebirge,Landkreis,2016,52.5
+14628,Sächsische Schweiz-Osterzgebirge,Landkreis,2017,52.5
+14713,"Leipzig, Stadt",krsfr. Stadt,2016,33.9
+14713,"Leipzig, Stadt",krsfr. Stadt,2017,33.5
+14729,Leipzig,Landkreis,2016,62.6
+14729,Leipzig,Landkreis,2017,62.3
+14730,Nordsachsen,Landkreis,2016,64.6
+14730,Nordsachsen,Landkreis,2017,64.3
+15001,"Dessau-Roßlau, Stadt",krsfr. Stadt,2016,35.6
+15001,"Dessau-Roßlau, Stadt",krsfr. Stadt,2017,35.6
+15002,"Halle (Saale), Stadt",krsfr. Stadt,2016,25.5
+15002,"Halle (Saale), Stadt",krsfr. Stadt,2017,24.8
+15003,"Magdeburg, Stadt",krsfr. Stadt,2016,37.4
+15003,"Magdeburg, Stadt",krsfr. Stadt,2017,37.4
+15081,Altmarkkreis Salzwedel,Landkreis,2016,59.5
+15081,Altmarkkreis Salzwedel,Landkreis,2017,59.5
+15082,Anhalt-Bitterfeld,Landkreis,2016,61.6
+15082,Anhalt-Bitterfeld,Landkreis,2017,61.5
+15083,Börde,Landkreis,2016,65.7
+15083,Börde,Landkreis,2017,65.7
+15084,Burgenlandkreis,Landkreis,2016,69.3
+15084,Burgenlandkreis,Landkreis,2017,69.3
+15085,Harz,Landkreis,2016,51.5
+15085,Harz,Landkreis,2017,51.5
+15086,Jerichower Land,Landkreis,2016,55.1
+15086,Jerichower Land,Landkreis,2017,55.1
+15087,Mansfeld-Südharz,Landkreis,2016,57.9
+15087,Mansfeld-Südharz,Landkreis,2017,57.8
+15088,Saalekreis,Landkreis,2016,70.5
+15088,Saalekreis,Landkreis,2017,70.5
+15089,Salzlandkreis,Landkreis,2016,75.2
+15089,Salzlandkreis,Landkreis,2017,75.2
+15090,Stendal,Landkreis,2016,65
+15090,Stendal,Landkreis,2017,65
+15091,Wittenberg,Landkreis,2016,48.3
+15091,Wittenberg,Landkreis,2017,48.2
+16051,"Erfurt, Stadt",krsfr. Stadt,2016,60.6
+16051,"Erfurt, Stadt",krsfr. Stadt,2017,57.8
+16052,"Gera, Stadt",krsfr. Stadt,2016,56.8
+16052,"Gera, Stadt",krsfr. Stadt,2017,55.1
+16053,"Jena, Stadt",krsfr. Stadt,2016,39.4
+16053,"Jena, Stadt",krsfr. Stadt,2017,34
+16054,"Suhl, Stadt",krsfr. Stadt,2016,16.8
+16054,"Suhl, Stadt",krsfr. Stadt,2017,16.7
+16055,"Weimar, Stadt",krsfr. Stadt,2016,48.4
+16055,"Weimar, Stadt",krsfr. Stadt,2017,40.5
+16056,"Eisenach, Stadt",krsfr. Stadt,2016,43.1
+16056,"Eisenach, Stadt",krsfr. Stadt,2017,40.2
+16061,Eichsfeld,Landkreis,2016,59.4
+16061,Eichsfeld,Landkreis,2017,58.6
+16062,Nordhausen,Landkreis,2016,56.1
+16062,Nordhausen,Landkreis,2017,55.4
+16063,Wartburgkreis,Landkreis,2016,50.7
+16063,Wartburgkreis,Landkreis,2017,49.4
+16064,Unstrut-Hainich-Kreis,Landkreis,2016,69.2
+16064,Unstrut-Hainich-Kreis,Landkreis,2017,68.3
+16065,Kyffhäuserkreis,Landkreis,2016,65.3
+16065,Kyffhäuserkreis,Landkreis,2017,64.6
+16066,Schmalkalden-Meiningen,Landkreis,2016,39.3
+16066,Schmalkalden-Meiningen,Landkreis,2017,39.5
+16067,Gotha,Landkreis,2016,57.9
+16067,Gotha,Landkreis,2017,57.4
+16068,Sömmerda,Landkreis,2016,81.5
+16068,Sömmerda,Landkreis,2017,80.3
+16069,Hildburghausen,Landkreis,2016,43.9
+16069,Hildburghausen,Landkreis,2017,43.7
+16070,Ilm-Kreis,Landkreis,2016,44.3
+16070,Ilm-Kreis,Landkreis,2017,43.3
+16071,Weimarer Land,Landkreis,2016,72.5
+16071,Weimarer Land,Landkreis,2017,71.1
+16072,Sonneberg,Landkreis,2016,28.3
+16072,Sonneberg,Landkreis,2017,27.2
+16073,Saalfeld-Rudolstadt,Landkreis,2016,35.6
+16073,Saalfeld-Rudolstadt,Landkreis,2017,34.7
+16074,Saale-Holzland-Kreis,Landkreis,2016,53
+16074,Saale-Holzland-Kreis,Landkreis,2017,51.9
+16075,Saale-Orla-Kreis,Landkreis,2016,48.8
+16075,Saale-Orla-Kreis,Landkreis,2017,48.1
+16076,Greiz,Landkreis,2016,61
+16076,Greiz,Landkreis,2017,59.3
+16077,Altenburger Land,Landkreis,2016,72.6
+16077,Altenburger Land,Landkreis,2017,71.8

@@ -1,0 +1,72 @@
+# Catagory and components of statatistis 
+
+
+- Arbeitslosigkeit, Unemployment
+  - Allgemein
+  - Struktur
+  - Altersgruppen
+
+- Bauen und Wohnen, Building and Living
+  - Baulandmarkt und Bautätigkeit
+  - Gebäude- und Wohnungsbestand
+
+- Beschäftigung und Erwerbstätigkeit, Employment and Gainful Employment
+  - Struktur
+  - Qualifikation
+  - Atypische Beschäftigung
+  - Wirtschafts- und Berufszweige
+
+- Privateinkommen, Private Schulden, Private Income and Private Debt
+  - Privateinkommen, Private Schulden
+
+- Wirtschaft, Economy
+  - Fremdenverkehr
+  - Wirtschaftliche Leistung
+
+- Bevölkerung, Population
+  - Altersstruktur
+  - Bevölkerungsstruktur
+  - Mobilität
+  - Natürliche Bevölkerungsbewegungen
+  - Bundestagswahlen
+
+- Flächennutzung und Umwelt, Land Use and Environment
+  - Flächennutzung
+  - Umwelt
+  
+- Zentrale Orte Monitoring, Cental Location Monitoring
+  - Rahmendaten Zentraler Orte 
+    - Zentralörtlicher Status
+    - Zentralörtlicher Status (zusammengefasst)	
+    - Zentralörtlicher Status (differenziert)	
+    - Stadt-/Gemeindetyp	
+    - Raumtyp nach Lage
+    - Bevölkerung	 	
+    - Fläche 	
+    - Einwohnerdichte 	
+    - Bevölkerungsentwicklung	
+    - Anteil Siedlungs- und Verkehrsfläche 	
+    - Siedlungsdichte	
+  - Öffentliche Verwaltungsfunktion 
+  - Wirtschafts- und Arbeitsmarktfunktion 
+  - Verkehrs- und Kommunikationsfunktion
+    - ÖV-Haltestellen
+    - Bahnhaltestellen
+    - Bushaltestellen
+    - U-/Strassenbahnhaltestellen	
+    - ÖV-Abfahrten
+    - Bahn-Abfahrten
+    - Bus-Abfahrten
+    - U-/Straßenbahn-Abfahrten
+    - Erreichbarkeit von IC/EC/ICE-Bahnhöfen
+    - Erreichbarkeit Autobahnen
+    - Erreichbarkeit Flughäfen
+    - Erreichbarkeit KV-Terminal
+    - Erreichbarkeit von Mittelzentren 	
+    - Erreichbarkeit von Oberzentren
+    - Breitbandversorgung mit 16 Mbit/s in % 	
+    - Breitbandversorgung mit 50 Mbit/s in %	
+    - Breitbandversorgung mit 100 Mbit/s in %	
+  - Gesundheitsversorgungsfunktion 
+  - Bildungsversorgungs- und Kulturfunktion    
+  - Einzelhandelsversorgungsfunktion   

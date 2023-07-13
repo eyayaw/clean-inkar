@@ -1,0 +1,2 @@
+# Mon Dec  7 19:03:11 2020 ------------------------------
+Baulandpreise, Veränderung Baulandpreise, and Baulandumsatz are taken out because they are not time series. Only for one period or so. However, they are not taken out from the Baulandmarkt-und-Bautatigkeit csv and xls files. 

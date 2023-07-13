@@ -1,0 +1,403 @@
+Kennziffer;Raumeinheit;Aggregat;Baulandpreise;Veränderung Baulandpreise;Baulandumsatz
+;;;2016/2017;2012/2013-2016/2017;2015/2016
+01001;Flensburg, Stadt;krsfr. Stadt;94,8;-10,9;24,1
+01002;Kiel, Stadt;krsfr. Stadt;310,5;136,2;3,2
+01003;Lübeck, Stadt;krsfr. Stadt;176,7;52,5;18,6
+01004;Neumünster, Stadt;krsfr. Stadt;100,6;9,7;12,5
+01051;Dithmarschen;Landkreis;52,5;16,6;9,3
+01053;Herzogtum Lauenburg;Landkreis;114,1;19,5;22,7
+01054;Nordfriesland;Landkreis;147,3;11,3;12,0
+01055;Ostholstein;Landkreis;133,0;40,2;12,2
+01056;Pinneberg;Landkreis;201,2;27,0;9,9
+01057;Plön;Landkreis;89,6;-26,2;7,1
+01058;Rendsburg-Eckernförde;Landkreis;95,5;15,9;11,0
+01059;Schleswig-Flensburg;Landkreis;72,6;12,4;13,1
+01060;Segeberg;Landkreis;128,3;41,8;14,9
+01061;Steinburg;Landkreis;78,9;15,4;15,3
+01062;Stormarn;Landkreis;201,4;27,9;24,1
+02000;Hamburg, Stadt;krsfr. Stadt;726,8;174,4;33,6
+03101;Braunschweig, Stadt;krsfr. Stadt;233,2;95,0;17,8
+03102;Salzgitter, Stadt;krsfr. Stadt;99,1;26,3;15,5
+03103;Wolfsburg, Stadt;krsfr. Stadt;201,2;106,4;41,2
+03151;Gifhorn;Landkreis;78,8;9,9;51,8
+03153;Goslar;Landkreis;59,5;10,3;16,0
+03154;Helmstedt;Landkreis;59,3;-9,2;37,8
+03155;Northeim;Landkreis;65,5;19,4;19,1
+03157;Peine;Landkreis;77,1;-2,2;60,2
+03158;Wolfenbüttel;Landkreis;118,8;26,4;29,8
+03159;Göttingen;Landkreis;67,7;4,2;25,0
+03241;Region Hannover;Landkreis;196,7;49,7;24,8
+03251;Diepholz;Landkreis;69,3;8,1;32,2
+03252;Hameln-Pyrmont;Landkreis;58,6;-0,7;17,0
+03254;Hildesheim;Landkreis;56,9;-44,8;20,0
+03255;Holzminden;Landkreis;0,0;0,0;0,0
+03256;Nienburg (Weser);Landkreis;37,0;-2,9;23,1
+03257;Schaumburg;Landkreis;49,2;-7,0;0,0
+03351;Celle;Landkreis;46,9;-12,2;30,5
+03352;Cuxhaven;Landkreis;52,7;-0,2;40,5
+03353;Harburg;Landkreis;120,0;40,5;57,2
+03354;Lüchow-Dannenberg;Landkreis;0,0;0,0;0,0
+03355;Lüneburg;Landkreis;85,2;3,7;49,9
+03356;Osterholz;Landkreis;78,9;12,8;39,0
+03357;Rotenburg (Wümme);Landkreis;45,4;2,5;39,1
+03358;Heidekreis;Landkreis;42,8;-2,0;42,3
+03359;Stade;Landkreis;86,4;-6,0;43,4
+03360;Uelzen;Landkreis;43,7;16,7;23,5
+03361;Verden;Landkreis;105,3;20,6;39,8
+03401;Delmenhorst, Stadt;krsfr. Stadt;109,3;17,7;29,3
+03402;Emden, Stadt;krsfr. Stadt;59,3;-27,4;36,1
+03403;Oldenburg (Oldenburg), Stadt;krsfr. Stadt;273,6;97,7;57,9
+03404;Osnabrück, Stadt;krsfr. Stadt;208,5;31,7;15,8
+03405;Wilhelmshaven, Stadt;krsfr. Stadt;0,0;0,0;0,0
+03451;Ammerland;Landkreis;118,7;45,0;23,8
+03452;Aurich;Landkreis;70,5;22,7;37,5
+03453;Cloppenburg;Landkreis;73,1;18,1;38,4
+03454;Emsland;Landkreis;0,0;0,0;0,0
+03455;Friesland;Landkreis;68,9;3,1;37,3
+03456;Grafschaft Bentheim;Landkreis;73,0;-11,2;38,3
+03457;Leer;Landkreis;61,1;14,5;43,7
+03458;Oldenburg;Landkreis;91,1;31,8;32,4
+03459;Osnabrück;Landkreis;74,9;6,4;34,3
+03460;Vechta;Landkreis;100,4;27,9;35,4
+03461;Wesermarsch;Landkreis;59,8;12,5;19,5
+03462;Wittmund;Landkreis;50,7;-1,9;36,2
+04011;Bremen, Stadt;krsfr. Stadt;204,8;38,0;8,2
+04012;Bremerhaven, Stadt;krsfr. Stadt;99,4;33,9;24,0
+05111;Düsseldorf, Stadt;krsfr. Stadt;1.400,4;785,3;2,6
+05112;Duisburg, Stadt;krsfr. Stadt;151,2;-123,8;0,8
+05113;Essen, Stadt;krsfr. Stadt;211,0;-52,3;5,2
+05114;Krefeld, Stadt;krsfr. Stadt;187,8;-25,9;4,8
+05116;Mönchengladbach, Stadt;krsfr. Stadt;120,2;-25,5;2,7
+05117;Mülheim an der Ruhr, Stadt;krsfr. Stadt;297,4;41,8;2,5
+05119;Oberhausen, Stadt;krsfr. Stadt;215,0;9,7;5,5
+05120;Remscheid, Stadt;krsfr. Stadt;166,6;29,8;10,4
+05122;Solingen, Stadt;krsfr. Stadt;231,9;44,5;7,7
+05124;Wuppertal, Stadt;krsfr. Stadt;169,7;0,8;5,8
+05154;Kleve;Landkreis;116,2;6,2;14,6
+05158;Mettmann;Landkreis;290,2;100,0;2,5
+05162;Rhein-Kreis Neuss;Landkreis;235,8;33,6;4,3
+05166;Viersen;Landkreis;151,4;-10,9;17,4
+05170;Wesel;Landkreis;174,2;20,1;5,7
+05314;Bonn, Stadt;krsfr. Stadt;361,2;55,9;6,9
+05315;Köln, Stadt;krsfr. Stadt;464,3;88,1;2,9
+05316;Leverkusen, Stadt;krsfr. Stadt;257,7;-17,9;3,1
+05334;Städteregion Aachen;Landkreis;166,3;30,5;4,6
+05358;Düren;Landkreis;119,8;1,0;7,9
+05362;Rhein-Erft-Kreis;Landkreis;233,8;67,1;9,9
+05366;Euskirchen;Landkreis;85,4;-14,7;10,4
+05370;Heinsberg;Landkreis;119,2;11,9;13,2
+05374;Oberbergischer Kreis;Landkreis;78,1;-27,2;9,1
+05378;Rheinisch-Bergischer Kreis;Landkreis;142,3;-36,1;4,8
+05382;Rhein-Sieg-Kreis;Landkreis;185,5;10,4;5,1
+05512;Bottrop, Stadt;krsfr. Stadt;239,8;99,4;8,1
+05513;Gelsenkirchen, Stadt;krsfr. Stadt;129,7;-45,6;2,0
+05515;Münster, Stadt;krsfr. Stadt;199,5;-42,7;11,1
+05554;Borken;Landkreis;118,1;-0,8;5,5
+05558;Coesfeld;Landkreis;143,8;6,1;0,8
+05562;Recklinghausen;Landkreis;101,8;-41,7;6,1
+05566;Steinfurt;Landkreis;96,3;-1,5;7,6
+05570;Warendorf;Landkreis;118,4;10,5;11,7
+05711;Bielefeld, Stadt;krsfr. Stadt;182,7;76,6;9,7
+05754;Gütersloh;Landkreis;138,7;4,0;5,9
+05758;Herford;Landkreis;75,0;-2,7;12,7
+05762;Höxter;Landkreis;48,8;6,7;9,9
+05766;Lippe;Landkreis;87,4;3,5;9,1
+05770;Minden-Lübbecke;Landkreis;70,5;-1,9;11,1
+05774;Paderborn;Landkreis;141,1;14,5;9,6
+05911;Bochum, Stadt;krsfr. Stadt;142,8;-46,1;2,8
+05913;Dortmund, Stadt;krsfr. Stadt;245,7;10,2;6,0
+05914;Hagen, Stadt;krsfr. Stadt;180,3;-3,5;11,9
+05915;Hamm, Stadt;krsfr. Stadt;122,4;32,2;3,3
+05916;Herne, Stadt;krsfr. Stadt;132,6;-49,0;0,9
+05954;Ennepe-Ruhr-Kreis;Landkreis;179,9;58,6;2,2
+05958;Hochsauerlandkreis;Landkreis;74,2;6,9;8,3
+05962;Märkischer Kreis;Landkreis;108,5;-13,0;7,1
+05966;Olpe;Landkreis;84,1;2,2;7,9
+05970;Siegen-Wittgenstein;Landkreis;93,1;11,0;5,4
+05974;Soest;Landkreis;63,3;-27,3;6,5
+05978;Unna;Landkreis;124,2;0,9;7,2
+06411;Darmstadt, Stadt;krsfr. Stadt;819,4;340,8;16,4
+06412;Frankfurt am Main, Stadt;krsfr. Stadt;808,1;190,5;34,7
+06413;Offenbach am Main, Stadt;krsfr. Stadt;512,9;127,2;18,2
+06414;Wiesbaden, Stadt;krsfr. Stadt;743,4;227,5;19,5
+06431;Bergstraße;Landkreis;197,0;9,5;28,5
+06432;Darmstadt-Dieburg;Landkreis;294,5;47,2;37,8
+06433;Groß-Gerau;Landkreis;284,3;23,7;21,4
+06434;Hochtaunuskreis;Landkreis;474,9;60,1;31,2
+06435;Main-Kinzig-Kreis;Landkreis;194,9;26,8;40,7
+06436;Main-Taunus-Kreis;Landkreis;489,8;100,5;24,1
+06437;Odenwaldkreis;Landkreis;80,0;-4,0;28,8
+06438;Offenbach;Landkreis;420,7;122,4;32,2
+06439;Rheingau-Taunus-Kreis;Landkreis;206,3;9,4;26,7
+06440;Wetteraukreis;Landkreis;271,4;101,1;41,5
+06531;Gießen;Landkreis;164,6;30,9;29,3
+06532;Lahn-Dill-Kreis;Landkreis;100,8;9,7;29,5
+06533;Limburg-Weilburg;Landkreis;109,2;19,9;22,6
+06534;Marburg-Biedenkopf;Landkreis;93,7;14,8;27,1
+06535;Vogelsbergkreis;Landkreis;42,3;-8,1;21,9
+06611;Kassel, Stadt;krsfr. Stadt;203,8;55,5;11,6
+06631;Fulda;Landkreis;75,8;7,0;31,3
+06632;Hersfeld-Rotenburg;Landkreis;40,2;2,4;15,9
+06633;Kassel;Landkreis;80,2;3,3;29,5
+06634;Schwalm-Eder-Kreis;Landkreis;54,2;1,4;25,3
+06635;Waldeck-Frankenberg;Landkreis;41,5;-9,0;25,6
+06636;Werra-Meißner-Kreis;Landkreis;41,8;2,6;14,9
+07111;Koblenz, Stadt;krsfr. Stadt;326,3;8,8;14,8
+07131;Ahrweiler;Landkreis;84,9;-7,8;37,6
+07132;Altenkirchen (Westerwald);Landkreis;47,0;2,4;20,4
+07133;Bad Kreuznach;Landkreis;158,3;23,7;32,6
+07134;Birkenfeld;Landkreis;42,8;7,4;16,1
+07135;Cochem-Zell;Landkreis;43,0;-2,3;31,9
+07137;Mayen-Koblenz;Landkreis;107,8;-6,0;28,5
+07138;Neuwied;Landkreis;92,1;2,7;25,6
+07140;Rhein-Hunsrück-Kreis;Landkreis;60,9;1,5;26,9
+07141;Rhein-Lahn-Kreis;Landkreis;69,6;-8,5;12,8
+07143;Westerwaldkreis;Landkreis;78,0;9,5;30,1
+07211;Trier, Stadt;krsfr. Stadt;305,1;120,1;0,0
+07231;Bernkastel-Wittlich;Landkreis;66,5;8,4;31,2
+07232;Eifelkreis Bitburg-Prüm;Landkreis;60,7;13,4;30,1
+07233;Vulkaneifel;Landkreis;34,2;7,3;27,2
+07235;Trier-Saarburg;Landkreis;118,5;12,4;36,1
+07311;Frankenthal (Pfalz), Stadt;krsfr. Stadt;0,0;0,0;0,9
+07312;Kaiserslautern, Stadt;krsfr. Stadt;184,8;-5,4;19,4
+07313;Landau in der Pfalz, Stadt;krsfr. Stadt;234,7;29,7;18,2
+07314;Ludwigshafen am Rhein, Stadt;krsfr. Stadt;391,2;79,8;13,9
+07315;Mainz, Stadt;krsfr. Stadt;806,5;317,1;22,2
+07316;Neustadt an der Weinstraße, Stadt;krsfr. Stadt;260,9;49,4;15,5
+07317;Pirmasens, Stadt;krsfr. Stadt;75,7;2,1;17,8
+07318;Speyer, Stadt;krsfr. Stadt;279,8;19,0;8,0
+07319;Worms, Stadt;krsfr. Stadt;264,7;0,0;21,4
+07320;Zweibrücken, Stadt;krsfr. Stadt;89,4;13,9;22,0
+07331;Alzey-Worms;Landkreis;154,0;15,8;32,8
+07332;Bad Dürkheim;Landkreis;254,7;50,8;22,7
+07333;Donnersbergkreis;Landkreis;90,1;0,2;23,6
+07334;Germersheim;Landkreis;166,1;-11,0;17,6
+07335;Kaiserslautern;Landkreis;129,4;23,0;19,8
+07336;Kusel;Landkreis;63,5;-1,4;20,1
+07337;Südliche Weinstraße;Landkreis;177,2;37,8;24,5
+07338;Rhein-Pfalz-Kreis;Landkreis;300,2;60,1;22,6
+07339;Mainz-Bingen;Landkreis;246,3;25,7;26,7
+07340;Südwestpfalz;Landkreis;58,2;5,3;24,8
+08111;Stuttgart, Stadt;krsfr. Stadt;1.228,3;494,0;21,1
+08115;Böblingen;Landkreis;449,1;105,4;6,5
+08116;Esslingen;Landkreis;366,4;35,4;6,5
+08117;Göppingen;Landkreis;197,1;-30,3;14,4
+08118;Ludwigsburg;Landkreis;322,0;9,4;10,5
+08119;Rems-Murr-Kreis;Landkreis;273,3;-47,2;3,2
+08121;Heilbronn, Stadt;krsfr. Stadt;386,6;102,2;7,5
+08125;Heilbronn;Landkreis;160,8;-9,1;48,1
+08126;Hohenlohekreis;Landkreis;128,1;5,1;23,8
+08127;Schwäbisch Hall;Landkreis;89,6;-7,5;33,6
+08128;Main-Tauber-Kreis;Landkreis;64,4;-16,1;0,0
+08135;Heidenheim;Landkreis;105,7;5,0;9,8
+08136;Ostalbkreis;Landkreis;115,0;1,5;13,0
+08211;Baden-Baden, Stadt;krsfr. Stadt;66,8;-137,5;9,7
+08212;Karlsruhe, Stadt;krsfr. Stadt;455,7;0,0;2,0
+08215;Karlsruhe;Landkreis;265,2;58,3;7,0
+08216;Rastatt;Landkreis;221,1;39,6;3,9
+08221;Heidelberg, Stadt;krsfr. Stadt;0,0;0,0;2,1
+08222;Mannheim, Stadt;krsfr. Stadt;0,0;0,0;0,3
+08225;Neckar-Odenwald-Kreis;Landkreis;72,6;-0,7;2,3
+08226;Rhein-Neckar-Kreis;Landkreis;282,7;42,5;12,0
+08231;Pforzheim, Stadt;Landkreis;258,5;53,1;13,7
+08235;Calw;Landkreis;156,8;0,0;17,6
+08236;Enzkreis;Landkreis;199,7;12,9;25,1
+08237;Freudenstadt;Landkreis;98,4;14,4;9,1
+08311;Freiburg im Breisgau, Stadt;krsfr. Stadt;436,5;46,5;10,0
+08315;Breisgau-Hochschwarzwald;Landkreis;184,5;-20,0;13,6
+08316;Emmendingen;Landkreis;232,3;72,2;13,9
+08317;Ortenaukreis;Landkreis;153,8;31,6;14,8
+08325;Rottweil;Landkreis;89,3;-6,0;16,6
+08326;Schwarzwald-Baar-Kreis;Landkreis;100,9;0,0;8,7
+08327;Tuttlingen;Landkreis;92,7;6,7;37,1
+08335;Konstanz;Landkreis;130,5;-5,8;32,2
+08336;Lörrach;Landkreis;215,5;12,5;6,1
+08337;Waldshut;Landkreis;121,3;3,9;30,3
+08415;Reutlingen;Landkreis;213,6;35,0;6,4
+08416;Tübingen;Landkreis;195,3;0,1;38,1
+08417;Zollernalbkreis;Landkreis;74,6;-1,0;18,0
+08421;Ulm, Stadt;krsfr. Stadt;239,4;25,4;0,0
+08425;Alb-Donau-Kreis;Landkreis;117,4;2,7;18,9
+08426;Biberach;Landkreis;94,1;8,4;0,0
+08435;Bodenseekreis;Landkreis;296,4;99,1;13,7
+08436;Ravensburg;Landkreis;122,7;1,1;20,0
+08437;Sigmaringen;Landkreis;61,6;5,7;20,7
+09161;Ingolstadt, Stadt;krsfr. Stadt;551,6;276,1;55,6
+09162;München, Stadt;krsfr. Stadt;2.428,7;972,5;38,7
+09163;Rosenheim, Stadt;krsfr. Stadt;649,7;164,4;36,6
+09171;Altötting;Landkreis;117,3;7,4;43,4
+09172;Berchtesgadener Land;Landkreis;190,1;31,7;31,3
+09173;Bad Tölz-Wolfratshausen;Landkreis;556,9;210,2;37,4
+09174;Dachau;Landkreis;860,0;469,2;21,1
+09175;Ebersberg;Landkreis;653,3;193,9;28,3
+09176;Eichstätt;Landkreis;216,7;51,0;44,6
+09177;Erding;Landkreis;343,6;165,9;69,4
+09178;Freising;Landkreis;479,5;209,8;21,9
+09179;Fürstenfeldbruck;Landkreis;727,6;337,2;26,2
+09180;Garmisch-Partenkirchen;Landkreis;448,3;193,6;36,2
+09181;Landsberg am Lech;Landkreis;300,5;123,3;27,8
+09182;Miesbach;Landkreis;728,0;413,9;33,1
+09183;Mühldorf a.Inn;Landkreis;129,3;36,0;38,5
+09184;München;Landkreis;1.387,8;485,0;19,7
+09185;Neuburg-Schrobenhausen;Landkreis;166,9;58,6;36,7
+09186;Pfaffenhofen a.d.Ilm;Landkreis;283,5;100,6;32,9
+09187;Rosenheim;Landkreis;410,1;152,9;21,5
+09188;Starnberg;Landkreis;1.053,0;422,3;36,7
+09189;Traunstein;Landkreis;249,6;86,6;27,0
+09190;Weilheim-Schongau;Landkreis;232,5;51,5;43,7
+09261;Landshut, Stadt;krsfr. Stadt;550,8;227,6;39,4
+09262;Passau, Stadt;krsfr. Stadt;128,3;-7,9;53,9
+09263;Straubing, Stadt;krsfr. Stadt;188,5;24,8;55,0
+09271;Deggendorf;Landkreis;115,5;48,0;49,3
+09272;Freyung-Grafenau;Landkreis;35,2;2,4;30,1
+09273;Kelheim;Landkreis;147,4;36,6;46,8
+09274;Landshut;Landkreis;145,9;26,9;45,7
+09275;Passau;Landkreis;64,7;6,0;43,6
+09276;Regen;Landkreis;54,0;-9,2;36,3
+09277;Rottal-Inn;Landkreis;57,5;-1,2;43,5
+09278;Straubing-Bogen;Landkreis;88,4;11,9;38,3
+09279;Dingolfing-Landau;Landkreis;79,0;29,4;46,1
+09361;Amberg, Stadt;krsfr. Stadt;130,2;6,5;26,1
+09362;Regensburg, Stadt;krsfr. Stadt;832,6;436,3;23,0
+09363;Weiden i.d.OPf., Stadt;krsfr. Stadt;128,5;-45,0;22,5
+09371;Amberg-Sulzbach;Landkreis;78,9;13,3;25,9
+09372;Cham;Landkreis;44,9;5,4;40,8
+09373;Neumarkt i.d.OPf.;Landkreis;83,7;16,5;36,0
+09374;Neustadt a.d.Waldnaab;Landkreis;59,0;5,3;31,5
+09375;Regensburg;Landkreis;170,0;38,4;41,6
+09376;Schwandorf;Landkreis;82,0;3,4;43,5
+09377;Tirschenreuth;Landkreis;37,7;1,7;39,8
+09461;Bamberg, Stadt;krsfr. Stadt;314,8;7,4;3,3
+09462;Bayreuth, Stadt;krsfr. Stadt;151,4;-1,5;24,3
+09463;Coburg, Stadt;krsfr. Stadt;128,3;25,1;33,0
+09464;Hof, Stadt;krsfr. Stadt;225,7;175,6;160,4
+09471;Bamberg;Landkreis;98,0;2,6;41,1
+09472;Bayreuth;Landkreis;61,0;1,0;32,5
+09473;Coburg;Landkreis;43,6;1,6;43,0
+09474;Forchheim;Landkreis;144,9;11,0;35,1
+09475;Hof;Landkreis;30,9;5,8;26,7
+09476;Kronach;Landkreis;37,6;8,0;33,6
+09477;Kulmbach;Landkreis;51,8;4,5;26,7
+09478;Lichtenfels;Landkreis;61,6;4,4;31,5
+09479;Wunsiedel i.Fichtelgebirge;Landkreis;34,3;6,4;26,8
+09561;Ansbach, Stadt;krsfr. Stadt;120,1;19,6;15,2
+09562;Erlangen, Stadt;krsfr. Stadt;457,0;209,2;35,0
+09563;Fürth, Stadt;krsfr. Stadt;310,5;44,5;29,6
+09564;Nürnberg, Stadt;krsfr. Stadt;750,6;348,8;21,0
+09565;Schwabach, Stadt;krsfr. Stadt;254,5;26,6;35,7
+09571;Ansbach;Landkreis;62,6;12,0;43,1
+09572;Erlangen-Höchstadt;Landkreis;193,7;-161,8;60,9
+09573;Fürth;Landkreis;252,2;42,5;32,8
+09574;Nürnberger Land;Landkreis;190,4;10,5;39,3
+09575;Neustadt a.d.Aisch-Bad Windsheim;Landkreis;83,6;-18,7;30,5
+09576;Roth;Landkreis;133,4;2,1;30,8
+09577;Weißenburg-Gunzenhausen;Landkreis;71,2;3,2;33,1
+09661;Aschaffenburg, Stadt;krsfr. Stadt;411,9;-154,2;11,7
+09662;Schweinfurt, Stadt;krsfr. Stadt;142,6;-11,3;15,2
+09663;Würzburg, Stadt;krsfr. Stadt;447,7;163,3;26,1
+09671;Aschaffenburg;Landkreis;181,6;2,1;22,1
+09672;Bad Kissingen;Landkreis;55,6;8,8;25,0
+09673;Rhön-Grabfeld;Landkreis;32,1;4,0;38,1
+09674;Haßberge;Landkreis;46,9;14,1;32,4
+09675;Kitzingen;Landkreis;91,0;11,0;34,4
+09676;Miltenberg;Landkreis;141,8;2,7;26,8
+09677;Main-Spessart;Landkreis;78,5;5,5;31,1
+09678;Schweinfurt;Landkreis;76,9;38,4;11,2
+09679;Würzburg;Landkreis;142,0;8,4;47,9
+09761;Augsburg, Stadt;krsfr. Stadt;663,7;313,4;37,7
+09762;Kaufbeuren, Stadt;krsfr. Stadt;177,0;-2,9;53,3
+09763;Kempten (Allgäu), Stadt;krsfr. Stadt;0,0;0,0;11,4
+09764;Memmingen, Stadt;krsfr. Stadt;150,3;-11,4;22,0
+09771;Aichach-Friedberg;Landkreis;223,5;69,1;40,5
+09772;Augsburg;Landkreis;220,1;57,7;25,4
+09773;Dillingen a.d.Donau;Landkreis;83,5;9,2;38,6
+09774;Günzburg;Landkreis;100,1;17,1;27,3
+09775;Neu-Ulm;Landkreis;179,2;45,9;30,4
+09776;Lindau (Bodensee);Landkreis;275,5;59,3;32,2
+09777;Ostallgäu;Landkreis;160,4;43,5;35,0
+09778;Unterallgäu;Landkreis;101,9;9,0;42,1
+09779;Donau-Ries;Landkreis;75,6;3,6;43,6
+09780;Oberallgäu;Landkreis;143,0;2,8;54,7
+10041;Regionalverband Saarbrücken;Landkreis;107,7;25,0;15,3
+10042;Merzig-Wadern;Landkreis;70,4;6,7;25,8
+10043;Neunkirchen;Landkreis;77,6;6,2;20,4
+10044;Saarlouis;Landkreis;100,7;7,3;20,4
+10045;Saarpfalz-Kreis;Landkreis;114,2;35,1;20,0
+10046;St. Wendel;Landkreis;54,6;9,0;21,1
+11000;Berlin, Stadt;krsfr. Stadt;636,5;249,9;29,5
+12051;Brandenburg an der Havel, Stadt;krsfr. Stadt;61,6;4,4;27,0
+12052;Cottbus, Stadt;krsfr. Stadt;78,6;29,7;21,0
+12053;Frankfurt (Oder), Stadt;krsfr. Stadt;28,7;-10,8;28,8
+12054;Potsdam, Stadt;krsfr. Stadt;302,6;94,4;58,1
+12060;Barnim;Landkreis;82,0;30,4;72,8
+12061;Dahme-Spreewald;Landkreis;97,9;33,3;65,4
+12062;Elbe-Elster;Landkreis;11,5;-1,2;14,6
+12063;Havelland;Landkreis;95,8;36,3;48,2
+12064;Märkisch-Oderland;Landkreis;75,6;27,8;40,0
+12065;Oberhavel;Landkreis;81,9;17,3;72,4
+12066;Oberspreewald-Lausitz;Landkreis;18,1;1,3;10,4
+12067;Oder-Spree;Landkreis;47,3;4,3;51,9
+12068;Ostprignitz-Ruppin;Landkreis;33,2;-10,8;25,5
+12069;Potsdam-Mittelmark;Landkreis;99,1;36,1;77,9
+12070;Prignitz;Landkreis;15,8;2,4;18,4
+12071;Spree-Neiße;Landkreis;17,4;1,5;13,4
+12072;Teltow-Fläming;Landkreis;86,9;36,8;49,1
+12073;Uckermark;Landkreis;17,2;-0,2;20,3
+13003;Rostock, Stadt;krsfr. Stadt;133,8;54,0;10,1
+13004;Schwerin, Stadt;krsfr. Stadt;76,4;-19,9;21,1
+13071;Mecklenburgische Seenplatte;Landkreis;37,1;-2,3;18,7
+13072;Landkreis Rostock;Landkreis;44,7;-14,8;9,7
+13073;Vorpommern-Rügen;Landkreis;60,7;21,5;26,0
+13074;Nordwestmecklenburg;Landkreis;62,8;18,8;21,5
+13075;Vorpommern-Greifswald;Landkreis;46,4;7,1;14,6
+13076;Ludwigslust-Parchim;Landkreis;37,0;4,2;8,0
+14511;Chemnitz, Stadt;krsfr. Stadt;68,6;22,4;41,0
+14521;Erzgebirgskreis;Landkreis;41,9;14,1;16,6
+14522;Mittelsachsen;Landkreis;49,8;3,5;138,5
+14523;Vogtlandkreis;Landkreis;33,5;0,5;15,0
+14524;Zwickau;Landkreis;44,0;14,1;27,9
+14612;Dresden, Stadt;krsfr. Stadt;217,2;85,9;67,7
+14625;Bautzen;Landkreis;37,7;24,5;37,9
+14626;Görlitz;Landkreis;26,1;13,2;37,4
+14627;Meißen;Landkreis;41,6;12,5;113,0
+14628;Sächsische Schweiz-Osterzgebirge;Landkreis;47,7;2,8;43,5
+14713;Leipzig, Stadt;krsfr. Stadt;232,7;115,2;50,1
+14729;Leipzig;Landkreis;64,1;20,7;65,5
+14730;Nordsachsen;Landkreis;41,4;23,8;38,4
+15001;Dessau-Roßlau, Stadt;krsfr. Stadt;57,9;2,8;15,3
+15002;Halle (Saale), Stadt;krsfr. Stadt;113,5;42,6;48,2
+15003;Magdeburg, Stadt;krsfr. Stadt;92,7;7,4;25,4
+15081;Altmarkkreis Salzwedel;Landkreis;19,4;1,7;14,1
+15082;Anhalt-Bitterfeld;Landkreis;28,7;-0,3;17,1
+15083;Börde;Landkreis;34,9;5,2;21,2
+15084;Burgenlandkreis;Landkreis;37,0;4,0;9,9
+15085;Harz;Landkreis;42,9;5,9;14,1
+15086;Jerichower Land;Landkreis;34,8;6,4;13,3
+15087;Mansfeld-Südharz;Landkreis;17,6;-2,1;13,4
+15088;Saalekreis;Landkreis;36,7;8,3;17,1
+15089;Salzlandkreis;Landkreis;30,9;11,6;10,7
+15090;Stendal;Landkreis;26,4;2,4;16,4
+15091;Wittenberg;Landkreis;24,8;-3,9;15,8
+16051;Erfurt, Stadt;krsfr. Stadt;183,8;94,0;27,9
+16052;Gera, Stadt;krsfr. Stadt;56,2;5,5;16,5
+16053;Jena, Stadt;krsfr. Stadt;298,4;171,9;28,9
+16054;Suhl, Stadt;krsfr. Stadt;29,7;0,6;36,9
+16055;Weimar, Stadt;krsfr. Stadt;73,2;-4,2;51,0
+16056;Eisenach, Stadt;krsfr. Stadt;46,3;2,3;37,6
+16061;Eichsfeld;Landkreis;42,8;9,9;33,9
+16062;Nordhausen;Landkreis;25,3;-9,1;18,4
+16063;Wartburgkreis;Landkreis;24,2;0,7;29,3
+16064;Unstrut-Hainich-Kreis;Landkreis;33,5;7,2;31,6
+16065;Kyffhäuserkreis;Landkreis;19,9;2,6;18,2
+16066;Schmalkalden-Meiningen;Landkreis;27,8;1,2;34,8
+16067;Gotha;Landkreis;35,0;7,8;26,2
+16068;Sömmerda;Landkreis;31,9;9,4;20,4
+16069;Hildburghausen;Landkreis;24,6;6,5;22,2
+16070;Ilm-Kreis;Landkreis;30,5;-10,5;56,1
+16071;Weimarer Land;Landkreis;42,5;11,3;45,6
+16072;Sonneberg;Landkreis;22,3;3,8;26,1
+16073;Saalfeld-Rudolstadt;Landkreis;35,1;7,1;24,7
+16074;Saale-Holzland-Kreis;Landkreis;39,1;2,0;52,0
+16075;Saale-Orla-Kreis;Landkreis;19,5;5,0;17,8
+16076;Greiz;Landkreis;23,8;0,1;12,8
+16077;Altenburger Land;Landkreis;20,3;5,6;8,1

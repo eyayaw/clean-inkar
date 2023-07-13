@@ -1,0 +1,153 @@
+Kennziffer,Raumeinheit,Aggregat,year,value
+01001000,"Flensburg, Stadt",Oberzentrum,2017,480
+01002000,"Kiel, Landeshauptstadt",Oberzentrum,2017,489
+01003000,"Lübeck, Hansestadt",Oberzentrum,2017,439
+01004000,"Neumünster, Stadt",Oberzentrum,2017,484
+02000000,"Hamburg, Freie und Hansestadt",Oberzentrum,2017,520
+03101000,"Braunschweig, Stadt",Oberzentrum,2017,515
+03102000,"Salzgitter, Stadt",Oberzentrum,2017,453
+03103000,"Wolfsburg, Stadt",Oberzentrum,2017,959
+03159016,"Göttingen, Stadt",Oberzentrum,2017,580
+03241001,"Hannover, Landeshauptstadt",Oberzentrum,2017,596
+03254021,"Hildesheim, Stadt",Oberzentrum,2017,483
+03351006,"Celle, Stadt",Oberzentrum,2017,503
+03355022,"Lüneburg, Hansestadt",Oberzentrum,2017,532
+03403000,"Oldenburg (Oldenburg), Stadt",Oberzentrum,2017,486
+03404000,"Osnabrück, Stadt",Oberzentrum,2017,563
+03405000,"Wilhelmshaven, Stadt",Oberzentrum,2017,389
+04011000,"Bremen, Stadt",Oberzentrum,2017,480
+04012000,"Bremerhaven, Stadt",Oberzentrum,2017,462
+05111000,"Düsseldorf, Stadt",Oberzentrum,2017,662
+05112000,"Duisburg, Stadt",Oberzentrum,2017,343
+05113000,"Essen, Stadt",Oberzentrum,2017,412
+05114000,"Krefeld, Stadt",Oberzentrum,2017,402
+05116000,"Mönchengladbach, Stadt",Oberzentrum,2017,367
+05124000,"Wuppertal, Stadt",Oberzentrum,2017,352
+05314000,"Bonn, Stadt",Oberzentrum,2017,533
+05315000,"Köln, Stadt",Oberzentrum,2017,512
+05334002,"Aachen, Stadt",Oberzentrum,2017,524
+05515000,"Münster, Stadt",Oberzentrum,2017,525
+05711000,"Bielefeld, Stadt",Oberzentrum,2017,454
+05774032,"Paderborn, Stadt",Oberzentrum,2017,494
+05911000,"Bochum, Stadt",Oberzentrum,2017,355
+05913000,"Dortmund, Stadt",Oberzentrum,2017,394
+05914000,"Hagen, Stadt der FernUniversität",Oberzentrum,2017,372
+05970040,"Siegen, Universitätsstadt",Oberzentrum,2017,480
+06411000,"Darmstadt, Wissenschaftsstadt",Oberzentrum,2017,638
+06412000,"Frankfurt am Main, Stadt",Oberzentrum,2017,756
+06413000,"Offenbach am Main, Stadt",Oberzentrum,2017,374
+06414000,"Wiesbaden, Landeshauptstadt",Oberzentrum,2017,481
+06435014,"Hanau, Brüder-Grimm-Stadt",Oberzentrum,2017,493
+06531005,"Gießen, Universitätsstadt",Oberzentrum,2017,541
+06532023,"Wetzlar, Stadt",Oberzentrum,2017,552
+06534014,"Marburg, Universitätsstadt",Oberzentrum,2017,561
+06611000,"Kassel, documenta-Stadt",Oberzentrum,2017,547
+06631009,"Fulda, Stadt",Oberzentrum,2017,759
+07111000,"Koblenz, Stadt",Oberzentrum,2017,639
+07211000,"Trier, Stadt",Oberzentrum,2017,501
+07312000,"Kaiserslautern, Stadt",Oberzentrum,2017,528
+07314000,"Ludwigshafen am Rhein, Stadt",Oberzentrum,2017,605
+07315000,"Mainz, Stadt",Oberzentrum,2017,518
+08111000,"Stuttgart, Landeshauptstadt",Oberzentrum,2017,640
+08121000,"Heilbronn, Stadt",Oberzentrum,2017,564
+08212000,"Karlsruhe, Stadt",Oberzentrum,2017,565
+08221000,"Heidelberg, Stadt",Oberzentrum,2017,567
+08222000,"Mannheim, Universitätsstadt",Oberzentrum,2017,601
+08231000,"Pforzheim, Stadt",Oberzentrum,2017,464
+08311000,"Freiburg im Breisgau, Stadt",Oberzentrum,2017,535
+08317096,"Offenburg, Stadt",Oberzentrum,2017,689
+08326074,"Villingen-Schwenningen, Stadt",Oberzentrum,2017,486
+08335043,"Konstanz, Universitätsstadt",Oberzentrum,2017,364
+08336050,"Lörrach, Stadt",Oberzentrum,2017,446
+08336091,"Weil am Rhein, Stadt",Oberzentrum,2017,389
+08415061,"Reutlingen, Stadt",Oberzentrum,2017,481
+08416041,"Tübingen, Universitätsstadt",Oberzentrum,2017,513
+08421000,"Ulm, Universitätsstadt",Oberzentrum,2017,748
+08435016,"Friedrichshafen, Stadt",Oberzentrum,2017,592
+08436064,"Ravensburg, Stadt",Oberzentrum,2017,719
+08436082,"Weingarten, Stadt",Oberzentrum,2017,472
+09161000,Ingolstadt,Oberzentrum,2017,781
+09162000,"München, Landeshauptstadt",Oberzentrum,2017,584
+09163000,Rosenheim,Oberzentrum,2017,561
+09171111,"Altötting, Stadt",Oberzentrum,2017,596
+09171112,"Burghausen, Stadt",Oberzentrum,2017,949
+09171125,"Neuötting, Stadt",Oberzentrum,2017,357
+09172114,"Bad Reichenhall, GKSt",Oberzentrum,2017,404
+09172118,"Freilassing, Stadt",Oberzentrum,2017,473
+09177117,"Erding, GKSt",Oberzentrum,2017,383
+09178124,"Freising, GKSt",Oberzentrum,2017,809
+09180117,"Garmisch-Partenkirchen, Markt",Oberzentrum,2017,431
+09183128,"Mühldorf a.Inn, Stadt",Oberzentrum,2017,578
+09183148,"Waldkraiburg, Stadt",Oberzentrum,2017,367
+09189155,"Traunstein, GKSt",Oberzentrum,2017,756
+09190157,"Weilheim i.OB, Stadt",Oberzentrum,2017,457
+09261000,Landshut,Oberzentrum,2017,538
+09262000,Passau,Oberzentrum,2017,743
+09263000,Straubing,Oberzentrum,2017,617
+09271119,"Deggendorf, GKSt",Oberzentrum,2017,699
+09271146,"Plattling, Stadt",Oberzentrum,2017,711
+09279112,"Dingolfing, Stadt",Oberzentrum,2017,1537
+09361000,Amberg,Oberzentrum,2017,641
+09362000,Regensburg,Oberzentrum,2017,807
+09363000,Weiden i.d.OPf.,Oberzentrum,2017,649
+09372116,"Cham, Stadt",Oberzentrum,2017,985
+09373147,"Neumarkt i.d.OPf., GKSt",Oberzentrum,2017,534
+09377158,"Waldsassen, Stadt",Oberzentrum,2017,358
+09461000,Bamberg,Oberzentrum,2017,700
+09462000,Bayreuth,Oberzentrum,2017,642
+09463000,Coburg,Oberzentrum,2017,815
+09464000,Hof,Oberzentrum,2017,531
+09474126,"Forchheim, GKSt",Oberzentrum,2017,502
+09477128,"Kulmbach, GKSt",Oberzentrum,2017,568
+09479136,"Marktredwitz, GKSt",Oberzentrum,2017,598
+09479152,"Selb, GKSt",Oberzentrum,2017,507
+09479169,"Wunsiedel, Stadt",Oberzentrum,2017,435
+09561000,Ansbach,Oberzentrum,2017,650
+09562000,Erlangen,Oberzentrum,2017,804
+09563000,Fürth,Oberzentrum,2017,376
+09564000,Nürnberg,Oberzentrum,2017,593
+09565000,Schwabach,Oberzentrum,2017,393
+09661000,Aschaffenburg,Oberzentrum,2017,645
+09662000,Schweinfurt,Oberzentrum,2017,989
+09663000,Würzburg,Oberzentrum,2017,696
+09672114,"Bad Kissingen, GKSt",Oberzentrum,2017,501
+09673114,"Bad Neustadt a.d.Saale, Stadt",Oberzentrum,2017,1048
+09761000,Augsburg,Oberzentrum,2017,488
+09762000,Kaufbeuren,Oberzentrum,2017,416
+09763000,Kempten (Allgäu),Oberzentrum,2017,543
+09764000,Memmingen,Oberzentrum,2017,695
+09773125,"Dillingen a.d.Donau, GKSt",Oberzentrum,2017,621
+09773144,"Lauingen (Donau), Stadt",Oberzentrum,2017,317
+09774135,"Günzburg, GKSt",Oberzentrum,2017,631
+09774155,"Leipheim, Stadt",Oberzentrum,2017,529
+09775135,"Neu-Ulm, GKSt",Oberzentrum,2017,489
+09776116,"Lindau (Bodensee), GKSt",Oberzentrum,2017,512
+09779131,"Donauwörth, GKSt",Oberzentrum,2017,904
+09779194,"Nördlingen, GKSt",Oberzentrum,2017,605
+09780124,"Immenstadt i.Allgäu, Stadt",Oberzentrum,2017,693
+09780139,"Sonthofen, Stadt",Oberzentrum,2017,354
+10041100,"Saarbrücken, Landeshauptstadt",Oberzentrum,2017,617
+11000000,"Berlin, Stadt",Oberzentrum,2017,394
+12051000,"Brandenburg an der Havel, Stadt",Oberzentrum,2017,407
+12052000,"Cottbus, Stadt",Oberzentrum,2017,452
+12053000,"Frankfurt (Oder), Stadt",Oberzentrum,2017,473
+12054000,"Potsdam, Stadt",Oberzentrum,2017,479
+13003000,"Rostock, Hansestadt",Oberzentrum,2017,424
+13004000,"Schwerin, Landeshauptstadt",Oberzentrum,2017,525
+13071107,"Neubrandenburg, Stadt",Oberzentrum,2017,517
+13073088,"Stralsund, Hansestadt",Oberzentrum,2017,406
+13075039,"Greifswald, Hansestadt",Oberzentrum,2017,470
+14511000,"Chemnitz, Stadt",Oberzentrum,2017,468
+14523320,"Plauen, Stadt",Oberzentrum,2017,375
+14524330,"Zwickau, Stadt",Oberzentrum,2017,582
+14612000,"Dresden, Stadt",Oberzentrum,2017,469
+14625020,"Bautzen, Stadt",Oberzentrum,2017,669
+14625240,"Hoyerswerda, Stadt",Oberzentrum,2017,339
+14626110,"Görlitz, Stadt",Oberzentrum,2017,385
+14713000,"Leipzig, Stadt",Oberzentrum,2017,451
+15001000,"Dessau-Roßlau, Stadt",Oberzentrum,2017,410
+15002000,"Halle (Saale), Stadt",Oberzentrum,2017,398
+15003000,"Magdeburg, Landeshauptstadt",Oberzentrum,2017,457
+16051000,"Erfurt, Stadt",Oberzentrum,2017,513
+16052000,"Gera, Stadt",Oberzentrum,2017,383
+16053000,"Jena, Stadt",Oberzentrum,2017,496

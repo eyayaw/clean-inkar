@@ -1,0 +1,71 @@
+Indikator,Indicator,Langname,Longname,Berechnungsgrundlage,Calculation_basis,Anmerkungen,Notes,Quelle
+Zentralörtlicher Status,Central location status,Zentralörtlicher Status,Central location status,NA,N / A,"1 = Zentraler Ort 
+ 0 = keine zentralörtliche Einstufung
+Zentralörtlicher Status nach  Zentrale-Orte-Kategorien des BBSR (zusammengefasst).","1 = central location
+ 0 = no central location classification
+Central location status according to central location categories of the BBSR (summarized).",Festlegung nach Programmen und Plänen der Länder; Zusamenfassung der Kategorien durch BBSR
+Zentralörtlicher Status (zusammengefasst),Central location status (summarized),Zentralörtlicher Status (zusammengefasst),Central location status (summarized),NA,N / A,"1 = Oberzentrum und höher   
+2 = Mittelzentrum  
+3 = Grundzentrum und niedriger  
+0 = keine zentralörtliche Einstufung
+Zentralörtlicher Status nach  Zentrale-Orte-Kategorien des BBSR (zusammengefasst).","1 = upper center and higher
+2 = middle center
+3 = base center and lower
+0 = no central location classification
+Central location status according to central location categories of the BBSR (summarized).",Festlegung nach Programmen und Plänen der Länder; Zusamenfassung der Kategorien durch BBSR
+Zentralörtlicher Status (differenziert),Central location status (differentiated),Zentralörtlicher Status der Gemeinde (differenziert),Central local status of the municipality (differentiated),NA,N / A,"10 = Oberzentrum
+11 = Teil eines Oberzentrums
+20 = Mittelzentrum mit Teilfunktionen eines Oberzentrums
+21 = Teil eines Mittelzentrums mit Teilfunktionen eines Oberzentrums
+30 = Mittelzentrum
+31 = Teil eines Mittelzentrums
+40 = Unterzentrum mit Teilfunktionen eines Mittelzentrums
+41 = Teil eines Unterzentrums mit Teilfunktionen eines Mittelzentrums
+50 = Unterzentrum
+51 = Teil eines Unterzentrums
+60 = Kleinzentrum mit Teilfunktionen eines Unterzentrums
+61 = Teil eines Kleinzentrums mit Teilfunktionen eines Unterzentrums
+70 = Kleinzentrum
+71 = Teil eines Kleinzentrums
+0 = keine zentralörtliche Einstufung
+Zentralörtlicher Status gemäß Festlegung nach Programmen der Länder.","10 = main center
+11 = part of a regional center
+20 = middle center with partial functions of a main center
+21 = part of a middle center with partial functions of a main center
+30 = middle center
+31 = part of a middle center
+40 = sub-center with partial functions of a middle center
+41 = part of a sub-center with partial functions of a middle center
+50 = sub-center
+51 = part of a sub-center
+60 = small center with partial functions of a sub-center
+61 = part of a small center with partial functions of a sub-center
+70 = small center
+71 = part of a small center
+0 = no central location classification
+Central location status as determined by the programs of the federal states.",Festlegung nach Programmen und Plänen der Länder
+Stadt-/Gemeindetyp,City / municipality type,Stadt-/Gemeindetyp des BBSR,City / municipality type of the BBSR,NA,N / A,"10 = Großstädte
+20 = Mittelstädte
+30 = größere Kleinstädte
+40 = kleine Kleinstädte
+50 = Landgemeinden
+Der Stadt- und Gemeindetyp ordnet alle Verbandsgemeinden in Städte (Groß-, Mittel- und Kleinstädte) und in ländliche Gemeinden nach den Kriterien der Einwohnerzahl, zentralörtlichen Funktion und der phänomenologischen, siedlungsstrukturellen Prägung. - Abgrenzungskriterien siehe PDF „Erläuterungen zu den Raumbezügen"""" und www.Raumbeobachtung.de/Raumabgrenzungen.","10 = big cities
+20 = medium-sized towns
+30 = larger small towns
+40 = small towns
+50 = rural communities
+The city and municipality type classifies all association municipalities into cities (large, medium-sized and small towns) and into rural municipalities according to the criteria of the number of inhabitants, central location function and the phenomenological, settlement structure. - For delimitation criteria see PDF ""Explanations of spatial references"" ""and www.Raumbeobachtung.de/Raumab limits.","Laufende Raumbeobachtung des BBSR; eigene Berechnungen, siehe www.raumbeobachtung.de --> Raumabgrenzungen"
+Raumtyp nach Lage,Room type according to location,Raumtyp nach Lage des BBSR,Room type according to the location of the BBSR,NA,N / A,"1 = sehr zentral
+2 = zentral
+3 = peripher
+4 = sehr peripher
+Lagetypen nach erreichbarer Tagesbevölkerung.","1 = very central
+2 = central
+3 = peripheral
+4 = very peripheral
+Location types according to reachable daily population.","Laufende Raumbeobachtung des BBSR; eigene Berechnungen, siehe www.raumbeobachtung.de --> Raumabgrenzungen"
+Bevölkerung,population,Anzahl der Einwohner,Number of inhabitants,Anzahl der Einwohner,Number of inhabitants,Einwohnerzahl zum 31.12.; Fortschreibung Zensus 2011,Population as of December 31; Update of the 2011 census,Fortschreibung des Bevölkerungsstandes des Bundes und der Länder
+Fläche,area,Fläche in km²,Area in km²,Fläche in km²,Area in km²,NA,N / A,Feststellung des Gebietsstandes des Bundes und der Länder
+Einwohnerdichte,Population density,Einwohner je km²,Inhabitants per km²,E <Zeitpunkt> / Fläche in km² <Zeitpunkt>,E <time> / area in km² <time>,"Die Einwohnerdichte ist ein generelles Maß der regionalen Bevölkerungsverteilung und das am häufigsten verwendete Dichtemaß. Sie ist hilfreich bei der Beurteilung des Arbeitsmarktes, der Auslastung von Infrastruktur, der Belastung der Umwelt usw. Zudem findet die Einwohnerdichte oft als zentraler Indikator Eingang in die Typisierung bzw. Differenzierung eher städtischer oder eher ländlicher Gebiete.","Population density is a general measure of regional population distribution and the most commonly used density measure. It is helpful in assessing the labor market, the utilization of infrastructure, the pollution of the environment, etc. In addition, the population density is often used as a central indicator in the typification or differentiation of more urban or more rural areas.","Fortschreibung des Bevölkerungsstandes des Bundes und der Länder, Feststellung des Gebietsstandes des Bundes und der Länder"
+Anteil Siedlungs- und Verkehrsfläche,Share of settlement and traffic areas,Anteil der Siedlungs- und Verkehrsfläche an der Fläche in %,Share of settlement and traffic area in% of the area,Siedlungs- und Verkehrsfläche <Zeitpunkt> / Fläche <Zeitpunkt> x 100,Settlement and traffic area <time> / area <time> x 100,"Siedlungs- und Verkehrsfläche = Siedlungsfläche insgesamt + Verkehrsfläche insgesamt - Siedlungsfläche Bergbau + Siedlungsfläche Tagebau. Hinweis auf durch Dichte und Dichtefolgen für Umwelt (Lärm, Emissionen) bewirkte Disparitäten im Bereich der Wohnumwelt.","Settlement and traffic area = total settlement area + total traffic area - mining settlement area + open-cast mining area. Reference to disparities in the residential environment caused by density and density effects for the environment (noise, emissions).",Flächenerhebung nach Art der tatsächlichen Nutzung des Bundes und der Länder
+Siedlungsdichte,Settlement density,Einwohner je km² Siedlungs- und Verkehrsfläche,Inhabitants per km² of settlement and traffic area,E <Zeitpunkt> /Siedlungs- und Verkehrsfläche <Zeitpunkt>,E <time> / settlement and traffic area <time>,"Siedlungs- und Verkehrsfläche = Gebäude- und Freifläche + Betriebsfläche - Abbauland + Verkehrsfläche + Erholungsfläche + Friedhöfe. Besatz der Siedlungsfläche durch Einwohner, Indirekter Hinweis auf Flächenverbrauch pro Kopf.","Settlement and traffic area = building and open area + operating area - mining land + traffic area + recreational area + cemeteries. Occupation of the settlement area by residents, indirect reference to land consumption per capita.",Flächenerhebung nach Art der tatsächlichen Nutzung des Bundes und der Länder
