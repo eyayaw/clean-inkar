@@ -1,25 +1,26 @@
-
 # translate the column names of data frames downloaded from
 # inkar/datenguide, `table` has de vs en pairs of words.
 
-.table = read.csv("data/column-names.csv")
+.table <- read.csv("data/column-names.csv")
 translate_colnames <- function(x, .table) {
-  nms = if (is.data.frame(x)) names(x) else x
+  nms <- if (is.data.frame(x)) names(x) else x
   trimmed <- tolower(trimws(nms))
-  .df = data.frame(from = nms, to = with(.table, en[match(trimmed, tolower(de))]))
-  within(.df, {to = ifelse(is.na(to), to, to)})
+  .df <- data.frame(from = nms, to = with(.table, en[match(trimmed, tolower(de))]))
+  within(.df, {
+    to <- ifelse(is.na(to), to, to)
+  })
 }
 
 # read in the second sheet of xls files downloaded from inkar
 read_metadata_xls <-
   function(path, sheet = "Metadaten", skip = 1, assign = FALSE, name_repair = "minimal", ...) {
     if (assign) {
-    name <- sub("[.].*", "", basename(path))
-    name <- gsub("[ ()-]", "_", tolower(name))
-    assign(name, readxl::read_xls(path, sheet = sheet, skip = skip, ...), envir = globalenv())
+      name <- sub("[.].*", "", basename(path))
+      name <- gsub("[ ()-]", "_", tolower(name))
+      assign(name, readxl::read_xls(path, sheet = sheet, skip = skip, ...), envir = globalenv())
     } else {
-      readxl::read_xls(path, sheet = sheet, skip = skip,.name_repair = name_repair, ...)
-      }
+      readxl::read_xls(path, sheet = sheet, skip = skip, .name_repair = name_repair, ...)
+    }
   }
 
 
@@ -42,8 +43,11 @@ translate_metadata <- function(x, from = "de", to = "en", exclude_cols = "Quelle
     }
   }
 
-  if (interactive())
-    ans <- readline("Do you want to proceed with the translation? [y/n]|> ")
+  ans <- if (interactive()) {
+    readline("Do you want to proceed with the translation? [y/n]|> ")
+  } else {
+    "n"
+  }
   if (tolower(ans) == "y") {
     trans <- Map(googleLanguageR::gl_translate,
       t_string = x, source = from, target = to
@@ -53,19 +57,18 @@ translate_metadata <- function(x, from = "de", to = "en", exclude_cols = "Quelle
     names(trans) <- sub("[.]text", "", names(trans))
     names(trans) <- sub("[.]translatedText", paste0("_", to), names(trans))
     trans <- data.frame(trans, exclude)
+    return(trans)
   } else {
     message("No translation has been made.")
-    return(data.frame())
+    return(x)
   }
-  trans
 }
 
 # make metadata names once after they are translated
 # What it does is: indikator indikator_en -> indikator indicator
 make_metadata_names <- function(x) {
-  nms = if (is.data.frame(x)) names(x) else x
-  .which = grepl("_en$", nms)
-  nms[.which] = translate_colnames(sub("_en", "", nms[.which]), .table)$to
+  nms <- if (is.data.frame(x)) names(x) else x
+  .which <- grepl("_en$", nms)
+  nms[.which] <- translate_colnames(sub("_en", "", nms[.which]), .table)$to
   sub(" ", "_", nms)
 }
-
