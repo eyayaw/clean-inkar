@@ -6,9 +6,7 @@ format: gfm
 
 This project contains code to cleanup inkar datasets.
 
-Inkar datasets come in an untidy format, you can check them [here](https://www.inkar.de/WizardStart).
-
-Here is an example dataset: [./data/latest/Economy/Economy-performance/Wirtschaftliche-Leistung.csv](./data/latest/Economy/Economy-performance/Wirtschaftliche-Leistung.csv)
+Inkar datasets come in an untidy format, you can check them [here](https://www.inkar.de/WizardStart). Or, here is an example dataset: [./data/latest/Economy/Economy-performance/Wirtschaftliche-Leistung.csv](./data/latest/Economy/Economy-performance/Wirtschaftliche-Leistung.csv)
 
 ```{r}
 #| message: false
